@@ -1,0 +1,138 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/41966810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-18%2F4bec062e-5ccc-96b3-26a2-f406eedee214.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Amiti-Uttarwar-and-the-P2P-network---Episode-15-e18v7oq",
+  "title": "The P2P network",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "bitcoin-core",
+    "eclipse-attacks",
+    "p2p"
+  ],
+  "speakers": [
+    "Amiti Uttarwar"
+  ],
+  "date": "2021-10-18",
+  "description": "<p>Amiti returns to the Chaincode office to discuss all things p2p.</p>\n<p>We discuss:</p>\n<ul>\n <li>Why Amiti works on P2P (1:50)</li>\n <li>A framework for p2p design (4:25)</li>\n  <li>How do we systemize Bitcoin Core knowledge? (6:20)</li>\n  <li><a href=\"http://bitcoin-irc.chaincode.com/bitcoin-core-dev/\">Searchable #bitcoin-core IRC logs</a> (8:35)</li>\n  <li>Forward compatibility and upgradability (15:00)</li>\n  <li>Partition resisitence (16:10)</li>\n  <li><a href=\"https://bitcoinops.org/en/topics/eclipse-attacks/\">Eclipse Attacks</a> (17:00)</li>\n  <li><a href=\"https://github.com/ariard/altnet-proposals\">Altnet</a> (20:40)</li>\n  <li>Messages sent across the wire (20:55)</li>\n  <li>AddrRelay and AddrMan (24:35)</li>\n  <li>Bootstrapping, DNS seeds and address announcements (25:25)\n    <ul>\n      <li>DoS issues (27:35)</li>\n      <li>Address Manager (29:00)</li>\n      <li>New table and tried table (30:00)</li>\n    </ul>\n  </li>\n  <li>The Bitcoin network “dance” (31:25)</li>\n  <li><a href=\"https://github.com/amitiuttarwar/bitcoin-bytes/blob/master/tx-download.jpg\">Transaction download on Bitcoin’s p2p network comic</a> (32:25)</li>\n  <li>Addresses and proof of work (32:45)</li>\n  <li>Inbound and outbound connections (34:00)</li>\n  <li>Block relay only connections and full connections (35:35)</li>\n</ul>\n<p>Thanks to <a href=\"https://twitter.com/CaralieC/\">Caralie</a> for the sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      110.0,
+      "Why Amiti works on P2P"
+    ],
+    [
+      "1",
+      265.0,
+      "A framework for p2p design"
+    ],
+    [
+      "2",
+      380.0,
+      "How do we systemize Bitcoin Core knowledge?"
+    ],
+    [
+      "3",
+      515.0,
+      "Searchable #bitcoin-core IRC logs"
+    ],
+    [
+      "4",
+      900.0,
+      "Forward compatibility and upgradability"
+    ],
+    [
+      "5",
+      970.0,
+      "Partition resisitence"
+    ],
+    [
+      "6",
+      1020.0,
+      "Eclipse Attacks"
+    ],
+    [
+      "7",
+      1240.0,
+      "Altnet"
+    ],
+    [
+      "8",
+      1255.0,
+      "Messages sent across the wire"
+    ],
+    [
+      "9",
+      1475.0,
+      "AddrRelay and AddrMan"
+    ],
+    [
+      "10",
+      1525.0,
+      "Bootstrapping, DNS seeds and address announcements"
+    ],
+    [
+      "11",
+      1655.0,
+      "DoS issues"
+    ],
+    [
+      "12",
+      1740.0,
+      "Address Manager"
+    ],
+    [
+      "13",
+      1800.0,
+      "New table and tried table"
+    ],
+    [
+      "14",
+      1885.0,
+      "The Bitcoin network “dance”"
+    ],
+    [
+      "15",
+      1945.0,
+      "Transaction download on Bitcoin’s p2p network comic"
+    ],
+    [
+      "16",
+      1965.0,
+      "Addresses and proof of work"
+    ],
+    [
+      "17",
+      2040.0,
+      "Inbound and outbound connections"
+    ],
+    [
+      "18",
+      2135.0,
+      "Block relay only connections and full connections"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T124201Z.json",
+  "summary": "Amiti returns to the Chaincode office to discuss all things p2p.",
+  "episode": 15,
+  "additional_resources": [
+    {
+      "title": "Searchable #bitcoin-core IRC logs",
+      "url": "http://bitcoin-irc.chaincode.com/bitcoin-core-dev/"
+    },
+    {
+      "title": "Eclipse Attacks",
+      "url": "https://bitcoinops.org/en/topics/eclipse-attacks/"
+    },
+    {
+      "title": "Altnet",
+      "url": "https://github.com/ariard/altnet-proposals"
+    },
+    {
+      "title": "Transaction download on Bitcoin's p2p network comic",
+      "url": "https://github.com/amitiuttarwar/bitcoin-bytes/blob/master/tx-download.jpg"
+    }
+  ]
+}

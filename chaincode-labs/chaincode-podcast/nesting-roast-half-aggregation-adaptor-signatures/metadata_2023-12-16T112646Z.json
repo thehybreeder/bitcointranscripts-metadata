@@ -1,0 +1,47 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/62357551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-18%2F1e2ca48f-a779-0eda-2bbd-357c9a24e294.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Pieter-Wuille-and-Tim-Ruffing---Nesting--ROAST--Half-Aggregation--Adaptor-Signatures-part-2-e1sdgjf",
+  "title": "Nesting, ROAST, Half-Aggregation, Adaptor Signatures",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "adaptor-signatures"
+  ],
+  "speakers": [
+    "Pieter Wuille",
+    "Tim Ruffing"
+  ],
+  "date": "2022-12-27",
+  "description": null,
+  "chapters": [
+    [
+      "0",
+      49.0,
+      "Nesting"
+    ],
+    [
+      "1",
+      729.0,
+      "ROAST"
+    ],
+    [
+      "2",
+      1129.0,
+      "Cross-input Signature Aggregation"
+    ],
+    [
+      "3",
+      2072.0,
+      "Half-aggregation"
+    ],
+    [
+      "4",
+      2372.0,
+      "Adaptor signatures and atomic swaps"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T115703Z.json"
+}

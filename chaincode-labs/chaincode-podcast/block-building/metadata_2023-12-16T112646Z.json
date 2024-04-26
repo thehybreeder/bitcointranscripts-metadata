@@ -1,0 +1,72 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/46926206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-31%2Fa0c95a17-a1dc-20b5-097d-5ed00e3066c8.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Block-Building-with-Clara-and-Murch---Episode-18-e1dmitu",
+  "title": "Block Building",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "research",
+    "mining"
+  ],
+  "speakers": [
+    "Clara Shikhelman"
+  ],
+  "date": "2022-02-01",
+  "description": null,
+  "chapters": [
+    [
+      "0",
+      345.0,
+      "Building a valid block 101"
+    ],
+    [
+      "1",
+      695.0,
+      "The current getblocktemplate algorithm"
+    ],
+    [
+      "2",
+      820.0,
+      "Child pays for parent"
+    ],
+    [
+      "3",
+      945.0,
+      "Is there something better?"
+    ],
+    [
+      "4",
+      1645.0,
+      "How easy would it be to guess the next block?"
+    ],
+    [
+      "5",
+      1765.0,
+      "Do we have a better idea than initially mining an empty block?"
+    ],
+    [
+      "6",
+      2025.0,
+      "Empty blocks and SegWit"
+    ],
+    [
+      "7",
+      2100.0,
+      "How to improve on the candidate set algorithm e.g., linear programming"
+    ],
+    [
+      "8",
+      2220.0,
+      "Why should Bitcoin Core have better block building?"
+    ],
+    [
+      "9",
+      2335.0,
+      "How to compare different block building techniques"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T122953Z.json"
+}

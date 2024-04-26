@@ -1,0 +1,99 @@
+{
+  "type": "video",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://www.youtube.com/watch?v=knBHvzKsIOY",
+  "media": "https://www.youtube.com/watch?v=knBHvzKsIOY",
+  "title": "AssumeUTXO",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "assumeutxo"
+  ],
+  "speakers": [
+    "James O'Beirne"
+  ],
+  "date": "2020-02-13",
+  "chapters": [
+    [
+      "1",
+      162.0,
+      "2018 residency"
+    ],
+    [
+      "2",
+      340.0,
+      "Choosing what to work on"
+    ],
+    [
+      "3",
+      415.0,
+      "Fork detection framework"
+    ],
+    [
+      "4",
+      490.0,
+      "Initial block download (IBD)"
+    ],
+    [
+      "5",
+      690.0,
+      "DNS seeds"
+    ],
+    [
+      "6",
+      750.0,
+      "UTXO set"
+    ],
+    [
+      "7",
+      860.0,
+      "Parallelized signature validation"
+    ],
+    [
+      "8",
+      880.0,
+      "Assume valid"
+    ],
+    [
+      "9",
+      1050.0,
+      "Different than checkpoints"
+    ],
+    [
+      "10",
+      1140.0,
+      "Updating assume valid value in the code"
+    ],
+    [
+      "11",
+      1280.0,
+      "Assume UTXO"
+    ],
+    [
+      "12",
+      1635.0,
+      "Platform and memory considerations"
+    ],
+    [
+      "13",
+      1675.0,
+      "Criticisms"
+    ],
+    [
+      "14",
+      1940.0,
+      "Championing a big change in Bitcoin Core"
+    ]
+  ],
+  "youtube": {
+    "description": "Podcast website: https://podcast.chaincode.com/2020/02/12/james-obeirne-4.html\nNext in the studio, we caught James O'Beirne (https://twitter.com/jamesob/), who until recently was a co-worker of ours at Chaincode (https://twitter.com/chaincodelabs). We talked to James about his experience at the Chaincode residency (https://residency.chaincode.com), his most recent project Assume UTXO (https://github.com/jamesob/assumeutxo-docs/tree/2019-04-proposal/proposal) and how he champions and effects change in Bitcoin Core.\n\nDiscussed in this episode:\n- 2018 residency (https://medium.com/@ChaincodeLabs/chaincode-residency-2018-26cd8a65d5f7) (2:42) \n- Choosing what to work on (5:40)\n- Fork detection framework (6:55)\n- Initial block download (IBD) (https://btcinformation.org/en/glossary/initial-block-download) (8:10) \n- What a node does during IBD 1110\n- DNS seeds (https://stackoverflow.com/questions/41673073/how-does-the-bitcoin-client-determine-the-first-ip-address-to-connect) (11:30)\n- UTXO set (https://btcinformation.org/en/glossary/unspent-transaction-output) (12:30) \n- Parallelized signature validation (https://github.com/bitcoin/bitcoin/pull/2060) (14:20) \n- Assume valid (https://bitcoincore.org/en/2017/03/08/release-0.14.0/#assumed-valid-blocks) (14:40) \n- Different than checkpoints (https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_5):_Initial_Block_Download#Checkpoints) (17:30) \n- Updating assume valid value in the code (https://github.com/bitcoin/bitcoin/pull/9484) (19:00)\n- Assume UTXO () (21:20) \n- Platform and memory considerations (27:15)\n- Criticisms (27:55)\n- Championing a big change in Bitcoin Core (32:20)\n\nIf you like this, find more shows at https://podcast.chaincode.com. Thank you to Matthew Zipkin (https://twitter.com/MatthewZipkin) for sound engineering.",
+    "tags": [
+      "bitcoin"
+    ],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "deepgram_2024-02-07T164121Z.json"
+}

@@ -1,0 +1,76 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/31558828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-16%2F36603850-a01a-02d8-d651-4def404c9c73.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Chaincode-Decoded-Bech32m---Episode-11-ev1jnc",
+  "title": "Chaincode Decoded: Bech32m",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "bech32",
+    "segwit",
+    "taproot"
+  ],
+  "speakers": [
+    "Mark Erhardt"
+  ],
+  "date": "2021-04-16",
+  "description": "<p>This revisits a segment we call <em>Chaincode Decoded</em>. In this episode, we'll learn how to say Bech32 and also what it and Bech32m are. Enjoy!</p>\n<p>Correction: The characters removed from the set are <code>1 B I O</code> (2:20)</p>\n<ul>\n <li>Why do we need Bech32? (0:57)</li>\n <li>What is the distinction between Bech32 and native SegWit? (3:20)</li>\n  <li>Why does Taproot need a new address format? (4:13)</li>\n  <li>Bech32 length extension mutation weakness (11:20)<br />\n- <a href=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-November/017443.html\" title=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-November/017443.html\">mailing list post</a></li>\n  <li>Bech32m (12:25)<br />\n- <a href=\"https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki\" title=\"https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki\">BIP350</a></li>\n</ul>\n<p>Further resources:</p>\n<ul>\n  <li><a href=\"https://www.youtube.com/watch?v=NqiN9VFE4CU\" title=\"https://www.youtube.com/watch?v=NqiN9VFE4CU\">Pieter Wuille: New Address Type for SegWit Addresses (presentation)</a></li>\n  <li><a href=\"http://bitcoin.sipa.be/bech32/demo/demo.html\" title=\"http://bitcoin.sipa.be/bech32/demo/demo.html\">Sipa demo</a></li>\n  <li><a href=\"https://en.bitcoin.it/wiki/Bech32_adoption\" title=\"https://en.bitcoin.it/wiki/Bech32_adoption\">Bech32 adoption</a></li>\n  <li><a href=\"https://medium.com/@MeshCollider/some-of-the-math-behind-bech32-addresses-cf03c7496285\" title=\"https://medium.com/@MeshCollider/some-of-the-math-behind-bech32-addresses-cf03c7496285\">(Some of) the math behind Bech32 addresses</a></li>\n</ul>\n<p>Thanks to <a href=\"https://twitter.com/CaralieCS/\" title=\"https://twitter.com/CaralieCS/\">Caralie</a> for the sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      140.0,
+      "Correction: The characters removed from the set are 1 B I O"
+    ],
+    [
+      "1",
+      200.0,
+      "What is the distinction between Bech32 and native SegWit?"
+    ],
+    [
+      "2",
+      253.0,
+      "Why does Taproot need a new address format?"
+    ],
+    [
+      "3",
+      680.0,
+      "Bech32 length extension mutation weakness"
+    ],
+    [
+      "4",
+      745.0,
+      "Bech32m"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T124926Z.json",
+  "summary": "This revisits a segment we call Chaincode Decoded. In this episode, we'll learn how to say Bech32 and also what it and Bech32m are. Enjoy!",
+  "episode": 11,
+  "additional_resources": [
+    {
+      "title": "mailing list post",
+      "url": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2019-November/017443.html"
+    },
+    {
+      "title": "BIP350",
+      "url": "https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki"
+    },
+    {
+      "title": "Pieter Wuille: New Address Type for SegWit Addresses (presentation)",
+      "url": "https://www.youtube.com/watch?v=NqiN9VFE4CU"
+    },
+    {
+      "title": "Sipa demo",
+      "url": "http://bitcoin.sipa.be/bech32/demo/demo.html"
+    },
+    {
+      "title": "Bech32 adoption",
+      "url": "https://en.bitcoin.it/wiki/Bech32_adoption"
+    },
+    {
+      "title": "(Some of) the math behind Bech32 addresses",
+      "url": "https://medium.com/@MeshCollider/some-of-the-math-behind-bech32-addresses-cf03c7496285"
+    }
+  ]
+}

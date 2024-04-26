@@ -1,0 +1,95 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/10021985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-28%2F45616656-44100-2-0700221dd9316.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Pieter-Wuille-part-2-of-2---Episode-2-eagbl1",
+  "title": "Pieter Wuille (part 2 of 2)",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [],
+  "speakers": [
+    "Pieter Wuille"
+  ],
+  "date": "2020-01-28",
+  "description": "<p>For our second episode, we pick up where we left off with Pieter Wuille in episode 1. If you missed that one, you should go back and listen to it first.</p>\n<p><a href=\"https://github.com/sipa\">Pieter</a> has been a Bitcoin protocol developer and contributor to Bitcoin Core since 2011. In that time, he’s authored or contributed to some of the most important developments, including segwit, bech32, libsecp, HD wallets, schnorr and taproot, and many others.</p>\n<p>We talked to Pieter about his thoughts on the lessons learned from the March 2013 Consensus Fork as well as libsecp and Pieter’s thoughts about Bitcoin in 2020.</p>\n<p>Discussed in this episode:</p>\n<ul>\n <li>Lessons learned from the 0.8 consensus failure (1:00)</li>\n <li><a href=\"https://github.com/bitcoin/bips/blob/master/bip-0066.mediawiki\">BIP66</a> - Strict DER signatures (3:13)</li>\n <li>Satoshi’s usage of OpenSSL (3:47)</li>\n <li>OpenSSL and DER encoding (5:35)</li>\n  <li><a href=\"https://github.com/bitcoin-core/secp256k1\">libsecp256k1</a> (12:12)</li>\n  <li>Hal Finney’s <a href=\"https://bitcointalk.org/index.php?topic=3238.msg45565\">post on the special properties of the secp256k1</a> (12:50)</li>\n  <li><a href=\"https://github.com/peterdettman\">Peter Dettman</a> and <a href=\"http://www.bouncycastle.org/\">Bouncy Castle</a> (16:58)</li>\n  <li>Imagining <a href=\"https://en.bitcoin.it/wiki/Pay_to_script_hash\">P2SH</a> from the beginning (26:20)</li>\n</ul>\n<p><br /></p>\n<p>If you like this, find more shows at <a href=\"https://podcast.chaincode.com/\">podcast.chaincode.com</a>. Thank you to <a href=\"https://twitter.com/MatthewZipkin\">Matthew Zipkin</a> for sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      60.0,
+      "Lessons learned from the 0.8 consensus failure"
+    ],
+    [
+      "1",
+      193.0,
+      "BIP66 - Strict DER signatures"
+    ],
+    [
+      "2",
+      227.0,
+      "Satoshi’s usage of OpenSSL"
+    ],
+    [
+      "3",
+      335.0,
+      "OpenSSL and DER encoding"
+    ],
+    [
+      "4",
+      732.0,
+      "libsecp256k1"
+    ],
+    [
+      "5",
+      770.0,
+      "Hal Finney’s post on the special properties of the secp256k1"
+    ],
+    [
+      "6",
+      1018.0,
+      "Peter Dettman and Bouncy Castle"
+    ],
+    [
+      "7",
+      1580.0,
+      "Imagining P2SH from the beginning"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T125741Z.json",
+  "summary": "For our second episode, we pick up where we left off with Pieter Wuille in episode 1. If you missed that one, you should go back and listen to it first.",
+  "episode": 2,
+  "additional_resources": [
+    {
+      "title": "Pieter",
+      "url": "https://github.com/sipa"
+    },
+    {
+      "title": "BIP66",
+      "url": "https://github.com/bitcoin/bips/blob/master/bip-0066.mediawiki"
+    },
+    {
+      "title": "libsecp256k1",
+      "url": "https://github.com/bitcoin-core/secp256k1"
+    },
+    {
+      "title": "post on the special properties of the secp256k1",
+      "url": "https://bitcointalk.org/index.php?topic=3238.msg45565"
+    },
+    {
+      "title": "Peter Dettman",
+      "url": "https://github.com/peterdettman"
+    },
+    {
+      "title": "Bouncy Castle",
+      "url": "http://www.bouncycastle.org/"
+    },
+    {
+      "title": "P2SH",
+      "url": "https://en.bitcoin.it/wiki/Pay_to_script_hash"
+    },
+    {
+      "title": "podcast.chaincode.com",
+      "url": "https://podcast.chaincode.com/"
+    }
+  ]
+}

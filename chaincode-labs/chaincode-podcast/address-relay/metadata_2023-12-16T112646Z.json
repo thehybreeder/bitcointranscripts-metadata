@@ -1,0 +1,138 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/51929581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-13%2Ff8968bbe-0d13-4db9-afe5-2dcca8fff92a.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Martin-Zumsande-and-Address-Relay---Episode-20-e1if91d",
+  "title": "Address Relay",
+  "episode": 20,
+  "summary": "Martin Zumsande joins us to tell us about the address spam in the summer of 2021 and his interests in AddrRelay and Bitcoin Core development.",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "bitcoin-core",
+    "eclipse-attacks",
+    "p2p"
+  ],
+  "speakers": [
+    "Martin Zumsande"
+  ],
+  "date": "2022-05-13",
+  "description": "<p><a href=\"https://twitter.com/Lightlike1\" title=\"https://twitter.com/Lightlike1\">Martin Zumsande</a> joins us to tell us about the address spam in the summer of 2021 and his interests in AddrRelay and Bitcoin Core development.</p>\n<p>We discuss with Martin:</p>\n<p>- His background (1:38)</p>\n<p>- Getting interested in Bitcoin (2:45)</p>\n<p>- How to approach P2P (3:55)</p>\n<p>- The network is changing (7:30)</p>\n<p>- What's the purpose of the Address Manager (AddrMan)? (9:33)Peering differences to LN nodes (11:00)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/\" title=\"https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/\">Ethan Heilman's talk on Network Partitioning Attacks</a> (12:10)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks\" title=\"https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks\">Addrman and eclipse attacks</a> (12:27)</p>\n<p>- AddrRelay and the role of node addresses (12:55)Getting connected to the network (13:37)</p>\n<p>- Self-announcements (14:25)</p>\n<p>- Address spam in summer 2021 and peer distribution (15:05)</p>\n<p>- Correction: The peer would not get addresses-divided-by-peers addresses, but 2×addresses-divided-by-peers addresses as the addresses get forwarded to two peers each. (18:00)</p>\n<p>- <a href=\"https://arxiv.org/abs/2108.00815\" title=\"https://arxiv.org/abs/2108.00815\">Estimating the Node Degree of Public Peers and Detecting Sybil Peers Based on Address Messages in the Bitcoin P2P Network</a> by Matthias Grundmann (19:30)</p>\n<p>- Simulating the network (20:15)</p>\n<p>- Requesting addresses from peers (21:45)</p>\n<p>- Walking through first connection of a node (25:25)<a href=\"https://www.cs.umd.edu/projects/coinscope/coinscope.pdf\" title=\"https://www.cs.umd.edu/projects/coinscope/coinscope.pdf\">Coinscope paper</a> (27:10)</p>\n<p>- Being a Bitcoin Core contributor (27:50)</p>\n<p><br /></p>\n<p>Thanks to Emily Kee for the sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      98.0,
+      "His background"
+    ],
+    [
+      "1",
+      165.0,
+      "Getting interested in Bitcoin"
+    ],
+    [
+      "2",
+      235.0,
+      "How to approach P2P"
+    ],
+    [
+      "3",
+      450.0,
+      "The network is changing"
+    ],
+    [
+      "3",
+      573.0,
+      "What's the purpose of the Address Manager (AddrMan)?"
+    ],
+    [
+      "4",
+      660.0,
+      "Peering differences to LN nodes"
+    ],
+    [
+      "5",
+      730.0,
+      "Ethan Heilman's talk on Network Partitioning Attacks"
+    ],
+    [
+      "6",
+      747.0,
+      "Addrman and eclipse attacks"
+    ],
+    [
+      "6",
+      775.0,
+      "AddrRelay and the role of node addresses"
+    ],
+    [
+      "7",
+      817.0,
+      "Getting connected to the network"
+    ],
+    [
+      "8",
+      865.0,
+      "Self-announcements"
+    ],
+    [
+      "9",
+      905.0,
+      "Address spam in summer 2021 and peer distribution"
+    ],
+    [
+      "10",
+      1080.0,
+      "Correction: The peer would not get addresses-divided-by-peers addresses, but 2×addresses-divided-by-peers addresses as the addresses get forwarded to two peers each."
+    ],
+    [
+      "11",
+      1170.0,
+      "Estimating the Node Degree of Public Peers and Detecting Sybil Peers Based on Address Messages in the Bitcoin P2P Network by Matthias Grundmann"
+    ],
+    [
+      "12",
+      1215.0,
+      "Simulating the network"
+    ],
+    [
+      "13",
+      1305.0,
+      "Requesting addresses from peers"
+    ],
+    [
+      "13",
+      1525.0,
+      "Walking through first connection of a node"
+    ],
+    [
+      "14",
+      1630.0,
+      "Coinscope paper"
+    ],
+    [
+      "15",
+      1670.0,
+      "Being a Bitcoin Core contributor"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T122135Z.json",
+  "additional_resources": [
+    {
+      "title": "Ethan Heilman's talk on Network Partitioning Attacks",
+      "url": "https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/"
+    },
+    {
+      "title": "Addrman and eclipse attacks",
+      "url": "https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks"
+    },
+    {
+      "title": "Estimating the Node Degree of Public Peers and Detecting Sybil Peers Based on Address Messages in the Bitcoin P2P Network",
+      "url": "https://arxiv.org/abs/2108.00815"
+    },
+    {
+      "title": "Coinscope paper",
+      "url": "https://www.cs.umd.edu/projects/coinscope/coinscope.pdf"
+    }
+  ]
+}

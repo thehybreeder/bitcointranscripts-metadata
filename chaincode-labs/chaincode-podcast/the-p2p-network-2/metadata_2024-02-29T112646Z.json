@@ -1,0 +1,171 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/42369447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-26%2Fe2b8de66-96bb-0262-100b-c307e04bbfc5.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Pieter-Wuille--Amiti-Uttarwar-and-the-P2P-network---Episode-16-e19bgv7",
+  "title": "The P2P network",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "erlay",
+    "p2p"
+  ],
+  "speakers": [
+    "Pieter Wuille",
+    "Amiti Uttarwar"
+  ],
+  "date": "2021-10-26",
+  "description": "<p>P2P experts Pieter and Amiti chat about the P2P network.</p>\n<p><br /></p>\n<p>In this episode they cover:</p>\n<p>- AddrRelay high-level goals and constraints (1:15)</p>\n<p>&nbsp;&nbsp;- Very different than the goals of blocks and transactions</p>\n<p>&nbsp; - Marginal fee rate (4:35)</p>\n<p>- Should we consider different transport layers? (5:40)</p>\n<p>- <a href=\"https://podcast.chaincode.com/2020/03/12/matt-corallo-6.html\" title=\"https://podcast.chaincode.com/2020/03/12/matt-corallo-6.html\">FIBRE Episode with Matt Corallo</a> (7:40)</p>\n<p>- The introduction of Addrman in 2012, <a href=\"https://github.com/bitcoin/bitcoin/pull/787\" title=\"https://github.com/bitcoin/bitcoin/pull/787\">PR #787</a> (8:55)</p>\n<p>- What existed before AddrMan and the evolution of DoS resistance.</p>\n<p>- <a href=\"https://eprint.iacr.org/2015/263.pdf\" title=\"https://eprint.iacr.org/2015/263.pdf\">Eclipse Attack paper</a> (14:55)<br />\n&nbsp;&nbsp;- <a href=\"https://en.wikipedia.org/wiki/Sybil_attack\" title=\"https://en.wikipedia.org/wiki/Sybil_attack\">Sybil attack<br />\n</a>&nbsp; - <a href=\"https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks\" title=\"https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks\">Addrman and eclipse attacks wiki page<br />\n</a>&nbsp; - <a href=\"https://github.com/bitcoin/bitcoin/pull/17428\" title=\"https://github.com/bitcoin/bitcoin/pull/17428\">Anchors connections - PR #17428</a></p>\n<p>- <a href=\"https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks#open-questions-and-areas-for-research\" title=\"https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks#open-questions-and-areas-for-research\">Connection exhaustion issue</a> (19:50)</p>\n<p>- Erlay (<a href=\"https://arxiv.org/abs/1905.10518\" title=\"https://arxiv.org/abs/1905.10518\">paper</a>, <a href=\"https://github.com/naumenkogs/bips/blob/bip_0330_updates/bip-0330.mediawiki\" title=\"https://github.com/naumenkogs/bips/blob/bip_0330_updates/bip-0330.mediawiki\">BIP</a>) (20:55)</p>\n<p>- AddrRelay (23:15)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bitcoin/pull/21528\" title=\"https://github.com/bitcoin/bitcoin/pull/21528\">Limiting addr black holes - PR #21528</a></p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bitcoin/pull/22387\" title=\"https://github.com/bitcoin/bitcoin/pull/22387\">Rate limiting on address gossip in 22.0</a></p>\n<p>- <a href=\"https://en.wikipedia.org/wiki/Leaky_bucket\" title=\"https://en.wikipedia.org/wiki/Leaky_bucket\">Leaky bucket rate limiter</a> (27:00)</p>\n<p>- Address Spam (29:20)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://arxiv.org/abs/2108.00815\" title=\"https://arxiv.org/abs/2108.00815\">Estimating the Node Degree of Public Peers and Detecting Sybil Peers Based on Address Messages in the Bitcoin P2P Network</a> by Matthias Grundmann (31:35)<br />\n&nbsp;- <a href=\"https://www.cs.umd.edu/projects/coinscope/coinscope.pdf\" title=\"https://www.cs.umd.edu/projects/coinscope/coinscope.pdf\">Coinscope paper</a> (31:45)<br />\n&nbsp;- <a href=\"https://arxiv.org/abs/1812.00942\" title=\"https://arxiv.org/abs/1812.00942\">TxProbe</a> (32:00)</p>\n<p>- Separate network stack (37:20)</p>\n<p>- Fingerprint attacks (37:15)</p>\n<p>- <a href=\"https://blog.bitmex.com/call-to-action-testing-and-improving-asmap/\" title=\"https://blog.bitmex.com/call-to-action-testing-and-improving-asmap/\">ASMAP</a> (39:00)</p>\n<p>Thanks to <a href=\"https://twitter.com/CaralieC/\" title=\"https://twitter.com/CaralieC/\">Caralie</a> for the sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      75.0,
+      "AddrRelay high-level goals and constraints"
+    ],
+    [
+      "1",
+      275.0,
+      "Marginal fee rate"
+    ],
+    [
+      "2",
+      340.0,
+      "Should we consider different transport layers?"
+    ],
+    [
+      "3",
+      460.0,
+      "FIBRE Episode with Matt Corallo"
+    ],
+    [
+      "4",
+      535.0,
+      "The introduction of Addrman in 2012, PR #787"
+    ],
+    [
+      "5",
+      895.0,
+      "Eclipse Attack paper"
+    ],
+    [
+      "6",
+      1190.0,
+      "Connection exhaustion issue"
+    ],
+    [
+      "7",
+      1255.0,
+      "Erlay (paper, BIP)"
+    ],
+    [
+      "8",
+      1395.0,
+      "AddrRelay"
+    ],
+    [
+      "9",
+      1620.0,
+      "Leaky bucket rate limiter"
+    ],
+    [
+      "10",
+      1760.0,
+      "Address Spam"
+    ],
+    [
+      "11",
+      1895.0,
+      "Estimating the Node Degree of Public Peers and Detecting Sybil Peers Based on Address Messages in the Bitcoin P2P Network by Matthias Grundmann"
+    ],
+    [
+      "12",
+      1905.0,
+      "Coinscope paper"
+    ],
+    [
+      "13",
+      1920.0,
+      "TxProbe"
+    ],
+    [
+      "14",
+      2240.0,
+      "Separate network stack"
+    ],
+    [
+      "15",
+      2340.0,
+      "ASMAP"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T124201Z.json",
+  "summary": "P2P experts Pieter and Amiti chat about the P2P network.",
+  "episode": 16,
+  "additional_resources": [
+    {
+      "title": "FIBRE Episode with Matt Corallo",
+      "url": "https://podcast.chaincode.com/2020/03/12/matt-corallo-6.html"
+    },
+    {
+      "title": "PR #787",
+      "url": "https://github.com/bitcoin/bitcoin/pull/787"
+    },
+    {
+      "title": "Eclipse Attack paper",
+      "url": "https://eprint.iacr.org/2015/263.pdf"
+    },
+    {
+      "title": "Sybil attack",
+      "url": "https://en.wikipedia.org/wiki/Sybil_attack"
+    },
+    {
+      "title": "Addrman and eclipse attacks wiki page",
+      "url": "https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks"
+    },
+    {
+      "title": "Anchors connections - PR #17428",
+      "url": "https://github.com/bitcoin/bitcoin/pull/17428"
+    },
+    {
+      "title": "Connection exhaustion issue",
+      "url": "https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks#open-questions-and-areas-for-research"
+    },
+    {
+      "title": "paper",
+      "url": "https://arxiv.org/abs/1905.10518"
+    },
+    {
+      "title": "BIP",
+      "url": "https://github.com/naumenkogs/bips/blob/bip_0330_updates/bip-0330.mediawiki"
+    },
+    {
+      "title": "Limiting addr black holes - PR #21528",
+      "url": "https://github.com/bitcoin/bitcoin/pull/21528"
+    },
+    {
+      "title": "Rate limiting on address gossip in 22.0",
+      "url": "https://github.com/bitcoin/bitcoin/pull/22387"
+    },
+    {
+      "title": "Leaky bucket rate limiter",
+      "url": "https://en.wikipedia.org/wiki/Leaky_bucket"
+    },
+    {
+      "title": "Estimating the Node Degree of Public Peers and Detecting Sybil Peers Based on Address Messages in the Bitcoin P2P Network",
+      "url": "https://arxiv.org/abs/2108.00815"
+    },
+    {
+      "title": "Coinscope paper",
+      "url": "https://www.cs.umd.edu/projects/coinscope/coinscope.pdf"
+    },
+    {
+      "title": "TxProbe",
+      "url": "https://arxiv.org/abs/1812.00942"
+    },
+    {
+      "title": "ASMAP",
+      "url": "https://blog.bitmex.com/call-to-action-testing-and-improving-asmap/"
+    }
+  ]
+}

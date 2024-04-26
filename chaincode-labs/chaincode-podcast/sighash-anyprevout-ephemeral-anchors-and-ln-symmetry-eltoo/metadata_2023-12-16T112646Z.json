@@ -1,0 +1,137 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/65106755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-15%2Fcd8370c5-7c59-e360-c0e4-7fa671994d49.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Greg-Sanders--SIGHASH_ANYPREVOUT--ephemeral-anchors-and-LN-symmetry-ELTOO---Episode-29-e1v1dc3",
+  "title": "SIGHASH_ANYPREVOUT, ephemeral anchors and LN symmetry (ELTOO)",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "eltoo",
+    "ephemeral-anchors",
+    "package-relay",
+    "rbf",
+    "sighash-anyprevout"
+  ],
+  "speakers": [
+    "Greg Sanders"
+  ],
+  "date": "2023-02-15",
+  "description": "<p><a href=\"https://twitter.com/theinstagibbs\">Greg Sanders</a> joins us to discuss ANYPREVOUT, ephemeral anchors and LN symmetry (a.k.a. ELTOO).</p>\n<p><br /></p>\n<p>We chat about:</p>\n<p><br /></p>\n<p>- <a href=\"https://bitcoinops.org/en/topics/package-relay/\">Package relay</a> (2:07)</p>\n<p>- <a href=\"https://bitcoinops.org/en/topics/transaction-pinning/\">Pinning attacks</a> (3:14)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki\">BIP125</a></p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md\">T-Bast’s pinning attack summary<br />\n</a></p>\n<p>- Mempool policy (4:56)</p>\n<p>- Stuffing the mempool - 2017 (5:20)</p>\n<p>- Rewrite mempool or make the problem simpler (07:57)</p>\n<p>- <a href=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019464.html\">Package relay RBF</a> A.K.A. V3 (8:38)</p>\n<p>- Reducing the standard transaction size to 65 bytes <a href=\"https://github.com/bitcoin/bitcoin/pull/26265\">PR</a> (14:25)</p>\n<p>- March to LN symmetry (19:07)</p>\n<p>- <a href=\"https://eprint.iacr.org/2022/1295\">Daric: A Storage Efficient Payment Channel With Penalization Mechanism</a></p>\n<p>- <a href=\"https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003788.html\">Two-party eltoo w/ punishment by AJ Towns</a></p>\n<p>- <a href=\"https://github.com/bitcoin/bips/blob/master/bip-0118.mediawiki\">BIP118</a> - SIGHASH_ANYPREVOUT (26:17)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bips/commit/98b7238f68d17f0e01275dd32075078702225356?short_path=2f8c560#diff-2f8c560480095b9f314d3a7e17cf7048a10f9a15b391acaf2c96412d5b4d4b9c\">SIGHASH_NOINPUT</a></p>\n<p>- Softfork and activation history (28:11)</p>\n<p>- <a href=\"https://bitcoinops.org/en/topics/ephemeral-anchors/\">Ephemeral anchors</a> (32:18)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-May/015945.html\">op_2 email by Luke<br />\n</a><br />\n- Is ANYPREVOUT useful outside of LN symmetry? (43:27)</p>",
+  "chapters": [
+    [
+      "0",
+      127.0,
+      "Package relay"
+    ],
+    [
+      "1",
+      194.0,
+      "Pinning attacks"
+    ],
+    [
+      "2",
+      296.0,
+      "Mempool policy"
+    ],
+    [
+      "3",
+      320.0,
+      "Stuffing the mempool - 2017"
+    ],
+    [
+      "4",
+      477.0,
+      "Rewrite mempool or make the problem simpler"
+    ],
+    [
+      "5",
+      518.0,
+      "Package relay RBF A.K.A. V3"
+    ],
+    [
+      "6",
+      865.0,
+      "Reducing the standard transaction size to 65 bytes PR"
+    ],
+    [
+      "7",
+      1147.0,
+      "March to LN symmetry"
+    ],
+    [
+      "8",
+      1577.0,
+      "BIP118 - SIGHASH_ANYPREVOUT"
+    ],
+    [
+      "9",
+      1691.0,
+      "Softfork and activation history"
+    ],
+    [
+      "10",
+      1938.0,
+      "Ephemeral anchors"
+    ],
+    [
+      "11",
+      2607.0,
+      "Is ANYPREVOUT useful outside of LN symmetry?"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T114750Z.json",
+  "summary": "Greg Sanders joins us to discuss ANYPREVOUT, ephemeral anchors and LN symmetry (a.k.a. ELTOO).",
+  "episode": 29,
+  "additional_resources": [
+    {
+      "title": "Package relay",
+      "url": "https://bitcoinops.org/en/topics/package-relay/"
+    },
+    {
+      "title": "Pinning attacks",
+      "url": "https://bitcoinops.org/en/topics/transaction-pinning/"
+    },
+    {
+      "title": "BIP125",
+      "url": "https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki"
+    },
+    {
+      "title": "T-Bast's pinning attack summary",
+      "url": "https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md"
+    },
+    {
+      "title": "Package relay RBF",
+      "url": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019464.html"
+    },
+    {
+      "title": "PR",
+      "url": "https://github.com/bitcoin/bitcoin/pull/26265"
+    },
+    {
+      "title": "Daric: A Storage Efficient Payment Channel With Penalization Mechanism",
+      "url": "https://eprint.iacr.org/2022/1295"
+    },
+    {
+      "title": "Two-party eltoo w/ punishment by AJ Towns",
+      "url": "https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003788.html"
+    },
+    {
+      "title": "BIP118",
+      "url": "https://github.com/bitcoin/bips/blob/master/bip-0118.mediawiki"
+    },
+    {
+      "title": "SIGHASH_NOINPUT",
+      "url": "https://github.com/bitcoin/bips/commit/98b7238f68d17f0e01275dd32075078702225356?short_path=2f8c560#diff-2f8c560480095b9f314d3a7e17cf7048a10f9a15b391acaf2c96412d5b4d4b9c"
+    },
+    {
+      "title": "Ephemeral anchors",
+      "url": "https://bitcoinops.org/en/topics/ephemeral-anchors/"
+    },
+    {
+      "title": "op_2 email by Luke",
+      "url": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-May/015945.html"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/59369518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-21%2Fe08b2432-2f59-101e-2bd1-92fd34f8c3a1.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Josibake--the-Bitcoin-Core-wallet-and-wrangling-bitcoin-data---episode-24-e1piaje",
+  "title": "The Bitcoin Core wallet and wrangling bitcoin data",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "bitcoin-core",
+    "signature-aggregation",
+    "wallet"
+  ],
+  "speakers": [
+    "Josibake"
+  ],
+  "date": "2022-10-21",
+  "description": "<p><a href=\"https://twitter.com/josibake\" title=\"https://twitter.com/josibake\">Josibake</a> joins us to talk about his work on the Bitcoin Core wallet, bitcoin data and onboarding to bitcoin development.</p>\n<p><br /></p>\n<p>We discussed:</p>\n<p>- Analyzing historical transaction data (1:25)</p>\n<p>&nbsp;&nbsp;- Creating a publicly available dataset (4:12)</p>\n<p>&nbsp;&nbsp;- What could it be used for? (7:30)</p>\n<p><br /></p>\n<p>- Bitcoin Core wallet (9:00)</p>\n<p>&nbsp;&nbsp;- Why have a wallet in Bitcoin Core? (10:00)</p>\n<p>&nbsp;&nbsp;- Separation of GUI from wallet (12:35)</p>\n<p>&nbsp;&nbsp;- Only use one input type when building transaction (13:40)</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;- PR #24584 in Bitcoin Core</p>\n<p>&nbsp;&nbsp;- How is working on the wallet? (17:15)</p>\n<p><br /></p>\n<p>- Cross-input signature aggregation (19:48)</p>\n<p>&nbsp;&nbsp;- Catching up on history (20:40)</p>\n<p>&nbsp;&nbsp;- Writing the BIP with Hackspec (22:05)</p>\n<p>&nbsp;&nbsp;- Thoughts on shipping cross-input signature aggregation separately (22:50)</p>\n<p><br /></p>\n<p>- Onboarding to Bitcoin development (28:35)</p>\n<p>&nbsp;&nbsp;- Running the seminar with friends (29:55)</p>\n<p>&nbsp;&nbsp;- Giving back to open source (31:20)</p>",
+  "chapters": [
+    [
+      "0",
+      85.0,
+      "Analyzing historical transaction data"
+    ],
+    [
+      "1",
+      252.0,
+      "Creating a publicly available dataset"
+    ],
+    [
+      "2",
+      450.0,
+      "What could it be used for?"
+    ],
+    [
+      "3",
+      540.0,
+      "Bitcoin Core wallet"
+    ],
+    [
+      "4",
+      600.0,
+      "Why have a wallet in Bitcoin Core?"
+    ],
+    [
+      "5",
+      755.0,
+      "Separation of GUI from wallet"
+    ],
+    [
+      "6",
+      820.0,
+      "Only use one input type when building transaction"
+    ],
+    [
+      "7",
+      1035.0,
+      "How is working on the wallet?"
+    ],
+    [
+      "8",
+      1188.0,
+      "Cross-input signature aggregation"
+    ],
+    [
+      "9",
+      1240.0,
+      "Catching up on history"
+    ],
+    [
+      "10",
+      1325.0,
+      "Writing the BIP with Hackspec"
+    ],
+    [
+      "11",
+      1370.0,
+      "Thoughts on shipping cross-input signature aggregation separately"
+    ],
+    [
+      "12",
+      1715.0,
+      "Onboarding to Bitcoin development"
+    ],
+    [
+      "13",
+      1795.0,
+      "Running the seminar with friends"
+    ],
+    [
+      "14",
+      1880.0,
+      "Giving back to open source"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T120854Z.json",
+  "summary": "Josibake joins us to talk about his work on the Bitcoin Core wallet, bitcoin data and onboarding to bitcoin development.",
+  "episode": 24,
+  "additional_resources": null
+}

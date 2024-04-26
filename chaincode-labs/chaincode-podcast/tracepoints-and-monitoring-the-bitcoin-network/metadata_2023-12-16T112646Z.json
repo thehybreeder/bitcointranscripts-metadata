@@ -1,0 +1,79 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/53093269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-6%2F1232c21f-4b91-dfe9-8959-728bac4df94e.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/0xB10C--Tracepoints-and-monitoring-the-Bitcoin-network-e1jipel",
+  "title": "Tracepoints and monitoring the Bitcoin network",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [],
+  "speakers": [
+    "0xB10C"
+  ],
+  "date": "2022-06-06",
+  "description": null,
+  "chapters": [
+    [
+      "0",
+      65.0,
+      "What he's been up to since the residency"
+    ],
+    [
+      "1",
+      172.0,
+      "Monitoring the mempool"
+    ],
+    [
+      "2",
+      267.0,
+      "Monitoring Mining pools"
+    ],
+    [
+      "3",
+      324.0,
+      "Mining pools not mining P2TR at Taproot activation"
+    ],
+    [
+      "4",
+      500.0,
+      "Why monitor the network?"
+    ],
+    [
+      "5",
+      565.0,
+      "Template discrepancies between pools and monitor"
+    ],
+    [
+      "6",
+      667.0,
+      "User-space Statically Defined Tracing (USDT)"
+    ],
+    [
+      "7",
+      816.0,
+      "Using tracepoints to simulate coin selection"
+    ],
+    [
+      "8",
+      878.0,
+      "Why are tracepoints in production code?"
+    ],
+    [
+      "9",
+      1025.0,
+      "Using tracepoints for P2P monitoring"
+    ],
+    [
+      "10",
+      1320.0,
+      "Using tracepoints to review PRs"
+    ],
+    [
+      "11",
+      1362.0,
+      "Benchmarking Erlay with USDT"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T121454Z.json"
+}

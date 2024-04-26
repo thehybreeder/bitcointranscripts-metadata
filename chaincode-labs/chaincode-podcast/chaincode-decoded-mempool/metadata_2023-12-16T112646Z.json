@@ -1,0 +1,107 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/32260353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-26%2Fdc6f12e7-a547-d872-6ef6-7acfe755a692.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Chaincode-Decoded-Mempool---Episode-12-evn0q1",
+  "title": "Chaincode Decoded: Mempool",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "anchor-outputs",
+    "cpfp",
+    "package-relay",
+    "rbf"
+  ],
+  "speakers": [
+    "Mark Erhardt"
+  ],
+  "date": "2021-04-26",
+  "description": "<p>The Chaincode Decoded segment returns and we jump into the deep end of the mempool.</p>\n<ul>\n <li><a href=\"https://bitcoinops.org/en/topics/cpfp/\" title=\"https://bitcoinops.org/en/topics/cpfp/\">Child Pays for Parent (CPFP)</a> (2:15)</li>\n <li>How miner evaluate fee rates (4:34)</li>\n  <li>Why is it hard to estimate fee rates? (6:03)</li>\n  <li>How do exchanges estimate fees? (8:00)</li>\n  <li>Will the mempool empty again? (9:23)</li>\n  <li>Miner/pools and the need for a high fee environment (11:04)</li>\n  <li><a href=\"https://bitcoinops.org/en/topics/replace-by-fee/\" title=\"https://bitcoinops.org/en/topics/replace-by-fee/\">Replace by Fee (RBF)</a> (14:05)<br />\n- <a href=\"https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki\" title=\"https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki\">BIP 125</a></li>\n  <li>Mempool eviction and the problems it can cause (19:04)</li>\n  <li><a href=\"https://bitcoinops.org/en/topics/anchor-outputs/\" title=\"https://bitcoinops.org/en/topics/anchor-outputs/\">Anchor Outputs</a> (20:50)</li>\n  <li><a href=\"https://bitcoinops.org/en/topics/package-relay/\" title=\"https://bitcoinops.org/en/topics/package-relay/\">Package Relay</a> (21:06)</li>\n  <li>Ways to use the blockspace more efficiently (22:15)<br />\n- <a href=\"https://github.com/blockchain/blockchain-wallet-v4-frontend/pull/1779\" title=\"https://github.com/blockchain/blockchain-wallet-v4-frontend/pull/1779\">blockchain.com implements Segwit<br />\n</a></li>\n</ul>\n<p>Thanks to <a href=\"https://twitter.com/CaralieCS/\" title=\"https://twitter.com/CaralieCS/\">Caralie</a> for the sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      135.0,
+      "Child Pays for Parent (CPFP)"
+    ],
+    [
+      "1",
+      274.0,
+      "How miner evaluate fee rates"
+    ],
+    [
+      "2",
+      363.0,
+      "Why is it hard to estimate fee rates?"
+    ],
+    [
+      "3",
+      480.0,
+      "How do exchanges estimate fees?"
+    ],
+    [
+      "4",
+      563.0,
+      "Will the mempool empty again?"
+    ],
+    [
+      "5",
+      664.0,
+      "Miner/pools and the need for a high fee environment"
+    ],
+    [
+      "6",
+      845.0,
+      "Replace by Fee (RBF)"
+    ],
+    [
+      "7",
+      1144.0,
+      "Mempool eviction and the problems it can cause"
+    ],
+    [
+      "8",
+      1250.0,
+      "Anchor Outputs"
+    ],
+    [
+      "9",
+      1266.0,
+      "Package Relay"
+    ],
+    [
+      "10",
+      1335.0,
+      "Ways to use the blockspace more efficiently"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T124804Z.json",
+  "summary": "The Chaincode Decoded segment returns and we jump into the deep end of the mempool.",
+  "episode": 12,
+  "additional_resources": [
+    {
+      "title": "Child Pays for Parent (CPFP)",
+      "url": "https://bitcoinops.org/en/topics/cpfp/"
+    },
+    {
+      "title": "Replace by Fee (RBF)",
+      "url": "https://bitcoinops.org/en/topics/replace-by-fee/"
+    },
+    {
+      "title": "BIP 125",
+      "url": "https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki"
+    },
+    {
+      "title": "Anchor Outputs",
+      "url": "https://bitcoinops.org/en/topics/anchor-outputs/"
+    },
+    {
+      "title": "Package Relay",
+      "url": "https://bitcoinops.org/en/topics/package-relay/"
+    },
+    {
+      "title": "blockchain.com implements Segwit",
+      "url": "https://github.com/blockchain/blockchain-wallet-v4-frontend/pull/1779"
+    }
+  ]
+}

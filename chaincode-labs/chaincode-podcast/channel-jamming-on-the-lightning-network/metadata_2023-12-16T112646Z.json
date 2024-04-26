@@ -1,0 +1,133 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/61104292/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-23%2F298871731-44100-2-f311e379afdf1.m4a",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Clara-Shikhelman-and-Sergei-Tikhomirov-and-Channel-Jamming-on-the-Lightning-Network---Episode-25-e1r78n4",
+  "title": "Channel Jamming on the Lightning Network",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "lightning",
+    "research",
+    "ux",
+    "watchtowers"
+  ],
+  "speakers": [
+    "Clara Shikhelman",
+    "Sergei Tikhomirov"
+  ],
+  "date": "2022-11-23",
+  "description": "<p>Clara and Sergei stop by to chat about their <a href=\"https://research.chaincode.com/2022/11/15/unjamming-lightning/\" rel=\"nofollow\">recent proposal</a> on mitigating jamming attacks in the Lightning Network. We talk unconditional fees, local reputation, the impact on decentralization and UX, and the state of Lightning in general.</p>\n<p><br /></p>\n<p>We discuss:</p>\n<p>- What is jamming and why is it free? (03:43)</p>\n<p>- How our jamming project started (06:44)</p>\n<p>- Prior work on jamming (08:00)</p>\n<p>- The desired properties of a solution (09:57)</p>\n<p>- Reputation (12:47)</p>\n<p>- Centralization concerns (14:17)</p>\n<p>- Unconditional fees (19:25)</p>\n<p>- How are unconditional fees delivered? (23:31)</p>\n<p>- UX implications (24:45)</p>\n<p>- Moving research results towards implementation (27:15)</p>\n<p>- Effects on balance probing (29:21)</p>\n<p>- Lightning as a messaging network (30:46)</p>\n<p>- Effects on watchtowers (32:57)</p>\n<p>- Reviews and feedback so far (34:17)</p>\n<p>- Future research ideas (34:55)</p>\n<p>- Privacy-preserving reputation (37:33)</p>\n<p><br /></p>\n<p>Additional resources:</p>\n<p>- <a href=\"https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md\">Spamming the Lightning Network</a></p>\n<p>- <a href=\"https://blog.bitmex.com/preventing-channel-jamming/\" rel=\"nofollow\">Preventing Channel Jamming</a></p>\n<p>- <a href=\"https://bitcoinops.org/en/topics/channel-jamming-attacks/\" rel=\"nofollow\">Bitcoin Optech: Channel jamming attacks</a></p>\n<p>- <a href=\"https://jamming-dev.github.io/book/1-impacts.html\" rel=\"nofollow\">The impacts of channel jamming</a></p>\n<p>- <a href=\"https://bitcoinproblems.org/problems/channel-balance-probing.html\" rel=\"nofollow\">Bitcoin problems: Channel balance probing</a></p>",
+  "chapters": [
+    [
+      "0",
+      223.0,
+      "What is jamming and why is it free?"
+    ],
+    [
+      "1",
+      404.0,
+      "How our jamming project started"
+    ],
+    [
+      "2",
+      480.0,
+      "Prior work on jamming"
+    ],
+    [
+      "3",
+      597.0,
+      "The desired properties of a solution"
+    ],
+    [
+      "4",
+      767.0,
+      "Reputation"
+    ],
+    [
+      "5",
+      857.0,
+      "Centralization concerns"
+    ],
+    [
+      "6",
+      1165.0,
+      "Unconditional fees"
+    ],
+    [
+      "7",
+      1411.0,
+      "How are unconditional fees delivered?"
+    ],
+    [
+      "8",
+      1485.0,
+      "UX implications"
+    ],
+    [
+      "9",
+      1635.0,
+      "Moving research results towards implementation"
+    ],
+    [
+      "10",
+      1761.0,
+      "Effects on balance probing"
+    ],
+    [
+      "11",
+      1846.0,
+      "Lightning as a messaging network"
+    ],
+    [
+      "12",
+      1977.0,
+      "Effects on watchtowers"
+    ],
+    [
+      "13",
+      2057.0,
+      "Reviews and feedback so far"
+    ],
+    [
+      "14",
+      2095.0,
+      "Future research ideas"
+    ],
+    [
+      "15",
+      2253.0,
+      "Privacy-preserving reputation"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T120513Z.json",
+  "summary": "Clara and Sergei stop by to chat about their recent proposal on mitigating jamming attacks in the Lightning Network. We talk unconditional fees, local reputation, the impact on decentralization and UX, and the state of Lightning in general.",
+  "episode": 25,
+  "additional_resources": [
+    {
+      "title": "recent proposal",
+      "url": "https://research.chaincode.com/2022/11/15/unjamming-lightning/"
+    },
+    {
+      "title": "Spamming the Lightning Network",
+      "url": "https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md"
+    },
+    {
+      "title": "Preventing Channel Jamming",
+      "url": "https://blog.bitmex.com/preventing-channel-jamming/"
+    },
+    {
+      "title": "Bitcoin Optech: Channel jamming attacks",
+      "url": "https://bitcoinops.org/en/topics/channel-jamming-attacks/"
+    },
+    {
+      "title": "The impacts of channel jamming",
+      "url": "https://jamming-dev.github.io/book/1-impacts.html"
+    },
+    {
+      "title": "Bitcoin problems: Channel balance probing",
+      "url": "https://bitcoinproblems.org/problems/channel-balance-probing.html"
+    }
+  ]
+}

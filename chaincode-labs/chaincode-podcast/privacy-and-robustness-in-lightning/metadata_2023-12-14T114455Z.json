@@ -1,0 +1,76 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/74405848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-9%2F1c76adef-4390-2bb8-1bec-e1e6358ca143.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Rusty-Russell-and-privacy-and-robustness-in-Lightning---episode-34-e27t6go",
+  "title": "Privacy and robustness in Lightning",
+  "episode": 34,
+  "summary": "Rusty drops by to tell us about why privacy and robustness should be prioritized in Lightning.",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "lightning",
+    "eltoo",
+    "op-checktemplateverify"
+  ],
+  "speakers": [
+    "Rusty Russell"
+  ],
+  "date": "2023-08-09",
+  "description": "<p><a href=\"https://twitter.com/rusty_twit\">Rusty</a> drops by to tell us about why privacy and robustness should be prioritized in Lightning.</p>\n<p><br />We discuss:</p>\n<ul>\n <li><p>LN symmetry (04:39)</p>\n<ul>\n <li>Do we want LN Symmetry to be symmetrical? (05:12)</li>\n  <li>Listen to the conversation with <a href=\"https://file+.vscode-resource.vscode-cdn.net/2023/02/15/greg-sanders\">instagibbs</a></li>\n</ul>\n</li>\n  <li><p>Peer to peer protocol (13:30)</p>\n</li>\n  <li><p>CTV (16:54)</p>\n</li>\n  <li><p>Pushing privacy and robustness to the front of the line (20:33)</p>\n</li>\n  <li><p>The dynamics of developing a spec with commercially associated implementations (22:19)</p>\n</li>\n  <li><p>Expecting new implementations (26:22)</p>\n</li>\n  <li><p>Privacy revisited (27:02)</p>\n</li>\n  <li><p>What broke when fee rate spiked? (31:21)</p>\n</li>\n</ul>",
+  "chapters": [
+    [
+      "0",
+      279.0,
+      "LN symmetry"
+    ],
+    [
+      "1",
+      312.0,
+      "Do we want LN Symmetry to be symmetrical?"
+    ],
+    [
+      "2",
+      810.0,
+      "Peer to peer protocol"
+    ],
+    [
+      "3",
+      1014.0,
+      "CTV"
+    ],
+    [
+      "4",
+      1233.0,
+      "Pushing privacy and robustness to the front of the line"
+    ],
+    [
+      "5",
+      1339.0,
+      "The dynamics of developing a spec with commercially associated implementations"
+    ],
+    [
+      "6",
+      1582.0,
+      "Expecting new implementations"
+    ],
+    [
+      "7",
+      1622.0,
+      "Privacy revisited"
+    ],
+    [
+      "8",
+      1881.0,
+      "What broke when fee rate spiked?"
+    ]
+  ],
+  "additional_resources": [
+    {
+      "title": "instagibbs",
+      "url": "https://file+.vscode-resource.vscode-cdn.net/2023/02/15/greg-sanders"
+    }
+  ],
+  "deepgram_output": "deepgram_2023-12-14T115139Z.json"
+}

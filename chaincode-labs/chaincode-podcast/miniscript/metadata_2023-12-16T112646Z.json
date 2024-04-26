@@ -1,0 +1,119 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/43197580/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-11%2Fd5519665-1145-2009-f74d-c05d43698b4d.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Sanket-Kanjalkar-and-Miniscript---Episode-17-e1a4pmc",
+  "title": "Miniscript",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "descriptors",
+    "htlc",
+    "miniscript",
+    "psbt",
+    "taproot"
+  ],
+  "speakers": [
+    "Sanket Kanjalkar"
+  ],
+  "date": "2021-11-11",
+  "description": "<p>Sanket describes to Murch his work on Miniscript. We explore uses for Miniscript, learn about intersections with PSBTs, Output Descriptors, and Taproot, and suss out the difference between Miniscript and Miniscript Policy.</p>\n<p><em>Note:</em> This episode was recorded in the context of travel for Bitcoin 2021. We apologize for the less polished than usual audio quality due to the different equipment and recording environment.</p>\n<p><br /></p>\n<p>We discuss:</p>\n<p>- What's Miniscript? (1:54)</p>\n<p>- <a href=\"https://bitcoinops.org/en/topics/psbt/\" title=\"https://bitcoinops.org/en/topics/psbt/\">Partially Signed Bitcoin Transactions (PSBTs)</a> (5:13)</p>\n<p>&nbsp;&nbsp;- Analyzing PSBTs with Miniscript (7:22)</p>\n<p>- How do Output Descriptors relate to Miniscript (10:16)</p>\n<p>- Implementations of Miniscript (13:36)</p>\n<p>- Semantic analysis of Scripts (14:54)</p>\n<p>&nbsp;&nbsp;- Non-malleability of miniscript (22:47)</p>\n<p>- Miniscript Policy (25:15)</p>\n<p>&nbsp;&nbsp;- Rediscovering HTLCs (29:41)</p>\n<p>- Miniscript uses (33:11)</p>\n<p>&nbsp;&nbsp;- Removing script limitations with Taproot (34:42)</p>\n<p>&nbsp;&nbsp;- Generic signing (35:53)</p>\n<p>&nbsp;&nbsp;- Future work (37:34)</p>\n<p>&nbsp;&nbsp;- The role of policy (40:24)<br />\n</p>\n<p>Related links:</p>\n<p>- <a href=\"http://bitcoin.sipa.be/miniscript/\" title=\"http://bitcoin.sipa.be/miniscript/\">Miniscript website</a></p>\n<p>- <a href=\"https://github.com/rust-bitcoin/rust-miniscript\" title=\"https://github.com/rust-bitcoin/rust-miniscript\">Rust Miniscript</a></p>\n<p>- <a href=\"https://github.com/sipa/miniscript\" title=\"https://github.com/sipa/miniscript\">Miniscript C++ implementation</a></p>\n<p>- <a href=\"https://github.com/sipa/gramtropy\" title=\"https://github.com/sipa/gramtropy\">Gramtropy</a></p>\n<p>- ##miniscript on Libera Chat</p>\n<p>Thanks to <a href=\"https://twitter.com/CaralieC/\" title=\"https://twitter.com/CaralieC/\">Caralie</a> for the sound engineering, and thanks to <a href=\"https://twitter.com/matthewzipkin\" title=\"https://twitter.com/matthewzipkin\">Matthew Zipkin</a> for assistance with squashing reverb artifacts.</p>",
+  "chapters": [
+    [
+      "0",
+      114.0,
+      "What's Miniscript?"
+    ],
+    [
+      "1",
+      313.0,
+      "Partially Signed Bitcoin Transactions (PSBTs)"
+    ],
+    [
+      "2",
+      442.0,
+      "Analyzing PSBTs with Miniscript"
+    ],
+    [
+      "3",
+      616.0,
+      "How do Output Descriptors relate to Miniscript"
+    ],
+    [
+      "4",
+      816.0,
+      "Implementations of Miniscript"
+    ],
+    [
+      "5",
+      894.0,
+      "Semantic analysis of Scripts"
+    ],
+    [
+      "6",
+      1367.0,
+      "Non-malleability of miniscript"
+    ],
+    [
+      "7",
+      1515.0,
+      "Miniscript Policy"
+    ],
+    [
+      "8",
+      1781.0,
+      "Rediscovering HTLCs"
+    ],
+    [
+      "9",
+      1991.0,
+      "Miniscript uses"
+    ],
+    [
+      "10",
+      2082.0,
+      "Removing script limitations with Taproot"
+    ],
+    [
+      "11",
+      2153.0,
+      "Generic signing"
+    ],
+    [
+      "12",
+      2254.0,
+      "Future work"
+    ],
+    [
+      "13",
+      2424.0,
+      "The role of policy"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T123336Z.json",
+  "summary": "Sanket describes to Murch his work on Miniscript. We explore uses for Miniscript, learn about intersections with PSBTs, Output Descriptors, and Taproot, and suss out the difference between Miniscript and Miniscript Policy.",
+  "episode": 17,
+  "additional_resources": [
+    {
+      "title": "Partially Signed Bitcoin Transactions (PSBTs)",
+      "url": "https://bitcoinops.org/en/topics/psbt/"
+    },
+    {
+      "title": "Miniscript website",
+      "url": "http://bitcoin.sipa.be/miniscript/"
+    },
+    {
+      "title": "Rust Miniscript",
+      "url": "https://github.com/rust-bitcoin/rust-miniscript"
+    },
+    {
+      "title": "Miniscript C++ implementation",
+      "url": "https://github.com/sipa/miniscript"
+    },
+    {
+      "title": "Gramtropy",
+      "url": "https://github.com/sipa/gramtropy"
+    }
+  ]
+}

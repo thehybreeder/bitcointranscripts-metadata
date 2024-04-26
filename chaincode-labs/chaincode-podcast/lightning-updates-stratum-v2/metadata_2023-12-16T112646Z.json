@@ -1,0 +1,114 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/58233427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-28%2F8283bffc-5c08-4ded-d83c-858c5a6348d0.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Steve-Lee-and-Lightning-updates--Stratum-V2---Episode-23-e1ofl4j",
+  "title": "Lightning updates / Stratum V2",
+  "episode": 23,
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "lightning",
+    "mining",
+    "stratum-v2",
+    "taproot",
+    "wallet"
+  ],
+  "speakers": [
+    "Steve Lee"
+  ],
+  "date": "2022-09-28",
+  "description": "<p>Our topics:</p>\n<p>- <a href=\"https://lightningdevkit.org/\" rel=\"nofollow\">Lightning Dev Kit</a> (1:04)</p>\n<p>&nbsp;&nbsp;- Zeroconf Channels (2:22)</p>\n<p>&nbsp;&nbsp;- Rapid Gossip Sync (3:46)</p>\n<p>&nbsp;&nbsp;- How does LDK pick priorities? (8:55)</p>\n<p>&nbsp;&nbsp;- LDK Lite (10:12)</p>\n<p>&nbsp;&nbsp;- Will LSPs be needed forever? (12:25)</p>\n<p>- Validated Lightning Signer (15:20)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://www.sphinx.chat/2022/06/27/a-lightning-nodes-problem-with-hats/\" rel=\"nofollow\">A Lightning Node's Problem with Hats</a></p>\n<p>&nbsp;- <a href=\"https://gitlab.com/lightning-signer\" rel=\"nofollow\">VLS code base</a></p>\n<p><a href=\"https://gitlab.com/lightning-signer\" rel=\"nofollow\">\n</a></p>\n<p>- FROST and ROAST (23:00)</p>\n<p>&nbsp;&nbsp;- Recovering a FROST wallet (24:00)</p>\n<p>- Taproot adoption (26:18)</p>\n<p>- Future of the Lightning Network (30:48)</p>\n<p>- <a href=\"https://braiins.com/stratum-v2\">Stratum V2</a> (34:25)</p>\n<p>&nbsp;&nbsp;- OFAC and mining (37:57)</p>\n<p>&nbsp;&nbsp;- Other benefits over Stratum (39:59)<br />\n</p>\n<p>Thanks to Gurwinder Sahota for the sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      64.0,
+      "Lightning Dev Kit"
+    ],
+    [
+      "1",
+      142.0,
+      "Zeroconf Channels"
+    ],
+    [
+      "2",
+      226.0,
+      "Rapid Gossip Sync"
+    ],
+    [
+      "3",
+      535.0,
+      "How does LDK pick priorities?"
+    ],
+    [
+      "4",
+      612.0,
+      "LDK Lite"
+    ],
+    [
+      "5",
+      745.0,
+      "Will LSPs be needed forever?"
+    ],
+    [
+      "6",
+      920.0,
+      "Validated Lightning Signer"
+    ],
+    [
+      "7",
+      1380.0,
+      "FROST and ROAST"
+    ],
+    [
+      "8",
+      1440.0,
+      "Recovering a FROST wallet"
+    ],
+    [
+      "9",
+      1578.0,
+      "Taproot adoption"
+    ],
+    [
+      "10",
+      1848.0,
+      "Future of the Lightning Network"
+    ],
+    [
+      "11",
+      2065.0,
+      "Stratum V2"
+    ],
+    [
+      "12",
+      2277.0,
+      "OFAC and mining"
+    ],
+    [
+      "13",
+      2399.0,
+      "Other benefits over Stratum"
+    ]
+  ],
+  "additional_resources": [
+    {
+      "title": "Lightning Dev Kit",
+      "url": "https://lightningdevkit.org/"
+    },
+    {
+      "title": "A Lightning Node's Problem with Hats",
+      "url": "https://www.sphinx.chat/2022/06/27/a-lightning-nodes-problem-with-hats/"
+    },
+    {
+      "title": "VLS code base",
+      "url": "https://gitlab.com/lightning-signer"
+    },
+    {
+      "title": "Stratum V2",
+      "url": "https://braiins.com/stratum-v2"
+    }
+  ],
+  "deepgram_output": "deepgram_2023-12-16T121234Z.json"
+}

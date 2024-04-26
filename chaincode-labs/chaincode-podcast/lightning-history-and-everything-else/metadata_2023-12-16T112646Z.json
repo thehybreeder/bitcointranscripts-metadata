@@ -1,0 +1,141 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/67106159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-22%2Fb3897f77-3011-9016-5c7a-8531e5b51825.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Tadge-Dryja-and-Lightning-History-and-everything-else---Episode-31-e20udtf",
+  "title": "Lightning History and everything else",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "eltoo",
+    "lightning",
+    "segwit",
+    "sighash-anyprevout",
+    "trimmed-htlc"
+  ],
+  "speakers": [
+    "Tadge Dryja"
+  ],
+  "date": "2023-03-22",
+  "description": "<p><a href=\"https://twitter.com/tdryja\">Tadge Dryja</a> chats with us about writing the Lightning Network paper and working in the Bitcoin space.</p>\n<p><br />We discussed:</p>\n<ul>\n <li>Could blocks be bigger? (0:59)</li>\n<ul>\n <li>Paper: <a href=\"https://www.cs.princeton.edu/~smattw/CKWN-CCS16.pdf\">On the instability of Bitcoin without the block reward</a> (9:49)</li>\n  <li>Serving billions with Lightning (10:40)</li>\n</ul>\n  <li>The state of the debate when writing the <a href=\"https://lightning.network/lightning-network-paper.pdf\">Lightning Network White Paper</a> (13:35)</li>\n<ul>\n  <li>Would Lightning be possible without Segwit? (17:20)</li>\n</ul>\n  <li>Looking in from outside on a project you started (18:54)</li>\n  <li>Trimmed HTLCs: Sending 1 sat vs 100,000 sats (22:02)</li>\n  <li>Limitations of the Lightning network (25:31)</li>\n<ul>\n  <li>Do high fees break lightning? (28:24)</li>\n</ul>\n  <li><a href=\"https://bitcoinops.org/en/topics/eltoo/\">LN-Symmetry (Eltoo)</a> (31:50)</li>\n<ul>\n  <li><a href=\"https://bitcoinops.org/en/topics/sighash_anyprevout/\">SIGHASH_ANYPREVOUT</a> (33:20)</li>\n</ul>\n  <li>Why are soft forks so hard? (34:15)</li>\n  <li>What’s your wish list (<a href=\"https://en.bitcoin.it/wiki/Hardfork_Wishlist#:~:text=The%20Hardfork%20Wishlist%20is%20to,them%20to%20be%20invalid%20blocks\">hardfork wishlist wiki</a>, <a href=\"https://en.bitcoin.it/wiki/Softfork_wishlist\">softfork wishilist wiki</a>) for protocol changes? (36:18)</li>\n<ul>\n  <li><a href=\"https://coinpool.dev/v0.1.pdf\">coinpools</a></li>\n</ul>\n  <li>Bitcoin needs to become more usable (37:54)</li>\n  <li>Tadge's thoughts on Education (44:17)</li>\n<ul>\n  <li><a href=\"https://dci.mit.edu/research/2019/8/6/take-the-free-mit-open-course-taught-by-dcis-neha-narula-and-tadge-dryja-mass62-cryptocurrency-engineering-and-design\">MAS.S62: Cryptocurrency Engineering and Design</a></li>\n  <li>Dynamics of working on Bitcoin (47:16)</li>\n</ul>\n</ul>",
+  "chapters": [
+    [
+      "0",
+      59.0,
+      "Could blocks be bigger?"
+    ],
+    [
+      "1",
+      589.0,
+      "Paper: On the instability of Bitcoin without the block reward"
+    ],
+    [
+      "2",
+      640.0,
+      "Serving billions with Lightning"
+    ],
+    [
+      "3",
+      815.0,
+      "The state of the debate when writing the Lightning Network White Paper"
+    ],
+    [
+      "4",
+      1040.0,
+      "Would Lightning be possible without Segwit?"
+    ],
+    [
+      "5",
+      1134.0,
+      "Looking in from outside on a project you started"
+    ],
+    [
+      "6",
+      1322.0,
+      "Trimmed HTLCs: Sending 1 sat vs 100,000 sats"
+    ],
+    [
+      "7",
+      1531.0,
+      "Limitations of the Lightning network"
+    ],
+    [
+      "8",
+      1704.0,
+      "Do high fees break lightning?"
+    ],
+    [
+      "9",
+      1910.0,
+      "LN-Symmetry (Eltoo)"
+    ],
+    [
+      "10",
+      2000.0,
+      "SIGHASH_ANYPREVOUT"
+    ],
+    [
+      "11",
+      2055.0,
+      "Why are soft forks so hard?"
+    ],
+    [
+      "12",
+      2178.0,
+      "What’s your wish list (hardfork wishlist wiki, softfork wishilist wiki) for protocol changes?"
+    ],
+    [
+      "13",
+      2274.0,
+      "Bitcoin needs to become more usable"
+    ],
+    [
+      "14",
+      2657.0,
+      "Tadge's thoughts on Education"
+    ],
+    [
+      "15",
+      2836.0,
+      "Dynamics of working on Bitcoin"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T113818Z.json",
+  "summary": "Tadge Dryja chats with us about writing the Lightning Network paper and working in the Bitcoin space.",
+  "episode": 31,
+  "additional_resources": [
+    {
+      "title": "On the instability of Bitcoin without the block reward",
+      "url": "https://www.cs.princeton.edu/~smattw/CKWN-CCS16.pdf"
+    },
+    {
+      "title": "Lightning Network White Paper",
+      "url": "https://lightning.network/lightning-network-paper.pdf"
+    },
+    {
+      "title": "LN-Symmetry (Eltoo)",
+      "url": "https://bitcoinops.org/en/topics/eltoo/"
+    },
+    {
+      "title": "SIGHASH_ANYPREVOUT",
+      "url": "https://bitcoinops.org/en/topics/sighash_anyprevout/"
+    },
+    {
+      "title": "hardfork wishlist wiki",
+      "url": "https://en.bitcoin.it/wiki/Hardfork_Wishlist#:~:text=The%20Hardfork%20Wishlist%20is%20to,them%20to%20be%20invalid%20blocks"
+    },
+    {
+      "title": "softfork wishilist wiki",
+      "url": "https://en.bitcoin.it/wiki/Softfork_wishlist"
+    },
+    {
+      "title": "coinpools",
+      "url": "https://coinpool.dev/v0.1.pdf"
+    },
+    {
+      "title": "MAS.S62: Cryptocurrency Engineering and Design",
+      "url": "https://dci.mit.edu/research/2019/8/6/take-the-free-mit-open-course-taught-by-dcis-neha-narula-and-tadge-dryja-mass62-cryptocurrency-engineering-and-design"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/62274005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-16%2F21bed2ba-2527-8c4f-b406-cdb955f43061.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Pieter-Wuille-and-Tim-Ruffing--Schnorr--MuSig--FROST-and-more---Episode-26-e1sav0l",
+  "title": "Schnorr, MuSig, FROST and more",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "cryptography",
+    "musig",
+    "schnorr-signatures"
+  ],
+  "speakers": [
+    "Pieter Wuille",
+    "Tim Ruffing"
+  ],
+  "date": "2022-12-16",
+  "description": "<p><a href=\"https://twitter.com/pwuille\">Pieter Wuille</a> and <a href=\"https://twitter.com/real_or_random\">Tim Ruffing</a> treat us to a conversation about Schnorr, multi-signatures, MuSig, and more. We covered a lot so this is part one of a two part conversation.</p>\n<p><br /></p>\n<p>We discussed:</p>\n<p>- When to roll your own cryptography (01:31)</p>\n<p>- Schnorr Signatures (09:01)</p>\n<p>&nbsp;&nbsp;- Why is Schnorr preferable to ECDSA? (10:55)</p>\n<p>- Schnorr efficiency improvements (15:52)</p>\n<p>- Multisigs (23:16)</p>\n<p>- <a href=\"https://bitcoinops.org/en/topics/musig/\">MuSig</a> (25:07)</p>\n<p>&nbsp;&nbsp;- <a href=\"http://yannickseurin.free.fr/\">Yannick Seurin</a></p>\n<p>&nbsp;&nbsp;- Rogue key attack or key cancellation attack (31:00)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://btctranscripts.com/bitcoin-core-dev-tech/2018-03-05-bellare-neven/\">Bellare-Neven</a> (32:12)</p>\n<p>- Interactive versus non-interactive protocols (35:30)</p>\n<p>- <a href=\"https://eprint.iacr.org/2020/852.pdf\">FROST</a> (42:42)</p>",
+  "chapters": [
+    [
+      "0",
+      91.0,
+      "When to roll your own cryptography"
+    ],
+    [
+      "1",
+      541.0,
+      "Schnorr Signatures"
+    ],
+    [
+      "2",
+      655.0,
+      "Why is Schnorr preferable to ECDSA?"
+    ],
+    [
+      "3",
+      952.0,
+      "Schnorr efficiency improvements"
+    ],
+    [
+      "4",
+      1396.0,
+      "Multisigs"
+    ],
+    [
+      "5",
+      1507.0,
+      "MuSig"
+    ],
+    [
+      "6",
+      1860.0,
+      "Rogue key attack or key cancellation attack"
+    ],
+    [
+      "7",
+      1932.0,
+      "Bellare-Neven"
+    ],
+    [
+      "8",
+      2130.0,
+      "Interactive versus non-interactive protocols"
+    ],
+    [
+      "9",
+      2562.0,
+      "FROST"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T120244Z.json",
+  "summary": "Pieter Wuille and Tim Ruffing treat us to a conversation about Schnorr, multi-signatures, MuSig, and more. We covered a lot so this is part one of a two part conversation.",
+  "episode": 26,
+  "additional_resources": [
+    {
+      "title": "MuSig",
+      "url": "https://bitcoinops.org/en/topics/musig/"
+    },
+    {
+      "title": "Yannick Seurin",
+      "url": "http://yannickseurin.free.fr/"
+    },
+    {
+      "title": "Bellare-Neven",
+      "url": "https://btctranscripts.com/bitcoin-core-dev-tech/2018-03-05-bellare-neven/"
+    },
+    {
+      "title": "FROST",
+      "url": "https://eprint.iacr.org/2020/852.pdf"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/24012484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-15%2F93f2f9aa-76f9-7e21-2479-34a099b1cbd4.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Carl-Dong-and-Modularizing-the-Bitcoin-Consensus-Engine---Episode-10-enra84",
+  "title": "Modularizing the Bitcoin Consensus Engine",
+  "categories": [
+    "podcast"
+  ],
+  "tags": ["build-system"],
+  "speakers": [
+    "Carl Dong"
+  ],
+  "date": "2020-12-15",
+  "description": "<p>In part 2 of this sit down with <a href=\"https://twitter.com/carl_dong\" title=\"https://twitter.com/carl_dong\">Carl Dong</a>, Murch and Jonas cover the delicate work of modularizing the Bitcoin consensus engine.</p>\n<p><br /></p>\n<p>In this conversation, we cover:</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bitcoin/pull/20158\" title=\"https://github.com/bitcoin/bitcoin/pull/20158\">Carl's De-globalize ChainstateManager PR</a> (2:25)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bitcoin/pull/16175\" title=\"https://github.com/bitcoin/bitcoin/pull/16175\">Async Block Processing PR</a></p>\n<p>&nbsp;&nbsp;- Deglobalize class of chainstate manager (g_chainman) (3:40)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/jamesob/assumeutxo-docs/tree/2019-04-proposal/proposal\" title=\"https://github.com/jamesob/assumeutxo-docs/tree/2019-04-proposal/proposal\">AssumeUTXO</a></p>\n<p>&nbsp;&nbsp;- global variables and main (5:25)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bitcoin/blob/dca80ffb45fcc8e6eedb6dc481d500dedab4248b/doc/developer-notes.md#scripted-diffs\" title=\"https://github.com/bitcoin/bitcoin/blob/dca80ffb45fcc8e6eedb6dc481d500dedab4248b/doc/developer-notes.md#scripted-diffs\">scripted diff</a> (9:35)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki\" title=\"https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki\">0.8 upgrade consensus failure</a> (11:25)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin/bitcoin/projects/6\" title=\"https://github.com/bitcoin/bitcoin/projects/6\">Jorge Timon's libconsensus project</a> (13:10)</p>\n<p>&nbsp;&nbsp;- current libbitcoinconsensus only does script verification (13:25)</p>\n<p>&nbsp;&nbsp;- the case for multiple implementations (14:40)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://en.wikipedia.org/wiki/Application_binary_interface\" title=\"https://en.wikipedia.org/wiki/Application_binary_interface\">ABI</a> (15:10)</p>\n<p><br /></p>\n<p>Thanks as always to <a href=\"https://twitter.com/MatthewZipkin\" title=\"https://twitter.com/MatthewZipkin\">Matthew Zipkin</a> for the sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      145.0,
+      "Carl's De-globalize ChainstateManager PR"
+    ],
+    [
+      "1",
+      220.0,
+      "Deglobalize class of chainstate manager (g_chainman)"
+    ],
+    [
+      "2",
+      325.0,
+      "global variables and main"
+    ],
+    [
+      "3",
+      575.0,
+      "scripted diff"
+    ],
+    [
+      "4",
+      685.0,
+      "0.8 upgrade consensus failure"
+    ],
+    [
+      "5",
+      790.0,
+      "Jorge Timon's libconsensus project"
+    ],
+    [
+      "6",
+      805.0,
+      "current libbitcoinconsensus only does script verification"
+    ],
+    [
+      "7",
+      880.0,
+      "the case for multiple implementations"
+    ],
+    [
+      "8",
+      910.0,
+      "ABI"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T125446Z.json",
+  "summary": "In part 2 of this sit down with Carl Dong, Murch and Jonas cover the delicate work of modularizing the Bitcoin consensus engine.",
+  "episode": 10,
+  "additional_resources": [
+    {
+      "title": "Carl's De-globalize ChainstateManager PR",
+      "url": "https://github.com/bitcoin/bitcoin/pull/20158"
+    },
+    {
+      "title": "Async Block Processing PR",
+      "url": "https://github.com/bitcoin/bitcoin/pull/16175"
+    },
+    {
+      "title": "AssumeUTXO",
+      "url": "https://github.com/jamesob/assumeutxo-docs/tree/2019-04-proposal/proposal"
+    },
+    {
+      "title": "scripted diff",
+      "url": "https://github.com/bitcoin/bitcoin/blob/dca80ffb45fcc8e6eedb6dc481d500dedab4248b/doc/developer-notes.md#scripted-diffs"
+    },
+    {
+      "title": "0.8 upgrade consensus failure",
+      "url": "https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki"
+    },
+    {
+      "title": "Jorge Timon's libconsensus project",
+      "url": "https://github.com/bitcoin/bitcoin/projects/6"
+    },
+    {
+      "title": "ABI",
+      "url": "https://en.wikipedia.org/wiki/Application_binary_interface"
+    }
+  ]
+}

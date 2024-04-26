@@ -1,0 +1,100 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/52496387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-24%2F7dc718ef-caa2-0ba5-69c2-f2d0a7f117e2.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Gloria-Zhao-and-Package-Relay---Episode-21-e1j0ii3",
+  "title": "Package Relay",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "package-relay",
+    "security"
+  ],
+  "speakers": [
+    "Gloria Zhao"
+  ],
+  "date": "2022-05-24",
+  "description": "<p>Gloria Zhao sits down with us to discuss her package relay proposal and what it is like as a relative newcomer to propose a big change.</p>\n<p><br /></p>\n<p>- What's package relay? (1:04)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html\" rel=\"nofollow\">Mailing List: Package Relay Proposal</a></p>\n<p>- Why do people care about package relay? (3:12)</p>\n<p>- What are these \"contracting protocols\" package relay matters for? (5:03)</p>\n<p>&nbsp;&nbsp;- Pinning attacks (6:28)</p>\n<p>- Why do you work on package relay? (6:55)</p>\n<p>- What's special about the mempool? (10:18)</p>\n<p>- How do you approach the security considerations? (12:07)</p>\n<p>- Synthesizing information for the ones coming after you (15:27)</p>\n<p>- What's next for package relay? (17:50)</p>\n<p>- Bridging protocol development with L2 (20:55)</p>\n<p><br /></p>\n<p>Additional resources:</p>\n<p>- <a href=\"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019464.html\" rel=\"nofollow\">Mailing List: Package Mempool Accept and Package RBF</a></p>\n<p>- <a href=\"https://brink.dev/podcast/1-mempool-policy/\" rel=\"nofollow\">Brink Podcast: Ep1 Mempool Policy</a></p>\n<p>- <a href=\"https://vimeo.com/704956163\" rel=\"nofollow\">Censorship and DoS Attacks: An intro to Mempool Policy</a></p>\n<p>- <a href=\"https://www.youtube.com/watch?v=fbWSQvJjKFs\" rel=\"nofollow\">Transaction Relay Policy for L2 Developers</a></p>\n<p>- <a href=\"https://github.com/glozow/bitcoin-notes/tree/master/mempool_garden\">Mempool Garden</a></p>\n<p><br /></p>\n<p>Thanks to Emily Kee for the sound engineering.</p>",
+  "chapters": [
+    [
+      "0",
+      64.0,
+      "What's package relay?"
+    ],
+    [
+      "1",
+      192.0,
+      "Why do people care about package relay?"
+    ],
+    [
+      "2",
+      303.0,
+      "What are these \"contracting protocols\" package relay matters for?"
+    ],
+    [
+      "3",
+      388.0,
+      "Pinning attacks"
+    ],
+    [
+      "4",
+      415.0,
+      "Why do you work on package relay?"
+    ],
+    [
+      "5",
+      618.0,
+      "What's special about the mempool?"
+    ],
+    [
+      "6",
+      727.0,
+      "How do you approach the security considerations?"
+    ],
+    [
+      "7",
+      927.0,
+      "Synthesizing information for the ones coming after you"
+    ],
+    [
+      "8",
+      1070.0,
+      "What's next for package relay?"
+    ],
+    [
+      "9",
+      1255.0,
+      "Bridging protocol development with L2"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T121704Z.json",
+  "summary": "Gloria Zhao sits down with us to discuss her package relay proposal and what it is like as a relative newcomer to propose a big change.",
+  "episode": 21,
+  "additional_resources": [
+    {
+      "title": "Mailing List: Package Relay Proposal",
+      "url": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html"
+    },
+    {
+      "title": "Mailing List: Package Mempool Accept and Package RBF",
+      "url": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019464.html"
+    },
+    {
+      "title": "Brink Podcast: Ep1 Mempool Policy",
+      "url": "https://brink.dev/podcast/1-mempool-policy/"
+    },
+    {
+      "title": "Censorship and DoS Attacks: An intro to Mempool Policy",
+      "url": "https://vimeo.com/704956163"
+    },
+    {
+      "title": "Transaction Relay Policy for L2 Developers",
+      "url": "https://www.youtube.com/watch?v=fbWSQvJjKFs"
+    },
+    {
+      "title": "Mempool Garden",
+      "url": "https://github.com/glozow/bitcoin-notes/tree/master/mempool_garden"
+    }
+  ]
+}

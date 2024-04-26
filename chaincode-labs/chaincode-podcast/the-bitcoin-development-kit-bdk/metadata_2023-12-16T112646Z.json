@@ -1,0 +1,104 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/71028929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-25%2F8ab73b8d-a824-fc44-fa03-8ce523cb5d4f.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Alekos-Filini--Daniela-Brozzoni-and-the-Bitcoin-Development-Kit-BDK---Episode-32-e24m4o1",
+  "title": "The Bitcoin Development Kit (BDK)",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "descriptors",
+    "hwi",
+    "wallet"
+  ],
+  "speakers": [
+    "Alekos Filini",
+    "Daniela Brozzoni"
+  ],
+  "date": "2023-05-25",
+  "description": "<p><a href=\"https://twitter.com/afilini\">Alekos Filini</a> and <a href=\"https://twitter.com/danielabrozzoni\">Daniela Brozzoni</a> visit the podcast to discuss the <a href=\"https://bitcoindevkit.org/\">Bitcoin Development Kit (BDK)</a>. Hang out with them on the <a href=\"https://discord.com/invite/dstn4dQ\">BDK Discord</a>.</p>\n<p><br /></p>\n<p>We cover:</p>\n<p><br /></p>\n<ul>\n <li><p>How BDK started (00:48)</p>\n<p><br /></p>\n</li>\n <li><p>Why is it named BDK and not the Magical Bitcoin Library? (2:10)</p>\n<p><br /></p>\n</li>\n  <li><p>The first users of BDK (3:30)</p>\n<p><br /></p>\n</li>\n  <li><p><a href=\"https://github.com/bitcoindevkit/rust-hwi\">Rust HWI</a> (4:20)</p>\n<p><br /></p>\n</li>\n  <li><p>Built around descriptors (7:15)</p>\n<p><br /></p>\n</li>\n  <li><p>The ideal use case of BDK (7:30)</p>\n<p><br /></p>\n</li>\n  <li><p>Pain points (9:05)</p>\n<p><br /></p>\n</li>\n  <li><p>Why do devs keep building wallets from scratch? (10:05)</p>\n<p><br /></p>\n</li>\n  <li><p><a href=\"https://blockstream.com/green/\">Greenwallet</a> (13:03)</p>\n<p><br /></p>\n</li>\n  <li><p>If you have a working wallet, should you switch to BDK? (16:25)</p>\n<p><br /></p>\n</li>\n  <li><p>HWI complaints (see Python) (17:41)</p>\n<p><br /></p>\n</li>\n  <li><p>BDK 1.0 release features (22:31)</p>\n<ul>\n  <li>Sync</li>\n  <li>Planning module</li>\n</ul>\n</li>\n</ul>",
+  "chapters": [
+    [
+      "0",
+      48.0,
+      "How BDK started"
+    ],
+    [
+      "1",
+      130.0,
+      "Why is it named BDK and not the Magical Bitcoin Library?"
+    ],
+    [
+      "2",
+      210.0,
+      "The first users of BDK"
+    ],
+    [
+      "3",
+      260.0,
+      "Rust HWI"
+    ],
+    [
+      "4",
+      435.0,
+      "Built around descriptors"
+    ],
+    [
+      "5",
+      450.0,
+      "The ideal use case of BDK"
+    ],
+    [
+      "6",
+      545.0,
+      "Pain points"
+    ],
+    [
+      "7",
+      605.0,
+      "Why do devs keep building wallets from scratch?"
+    ],
+    [
+      "8",
+      783.0,
+      "Greenwallet"
+    ],
+    [
+      "9",
+      985.0,
+      "If you have a working wallet, should you switch to BDK?"
+    ],
+    [
+      "10",
+      1061.0,
+      "HWI complaints (see Python)"
+    ],
+    [
+      "11",
+      1351.0,
+      "BDK 1.0 release features"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T113322Z.json",
+  "summary": "Alekos Filini and Daniela Brozzoni visit the podcast to discuss the Bitcoin Development Kit (BDK). Hang out with them on the BDK Discord.",
+  "episode": 32,
+  "additional_resources": [
+    {
+      "title": "Bitcoin Development Kit (BDK)",
+      "url": "https://bitcoindevkit.org/"
+    },
+    {
+      "title": "BDK Discord",
+      "url": "https://discord.com/invite/dstn4dQ"
+    },
+    {
+      "title": "Rust HWI",
+      "url": "https://github.com/bitcoindevkit/rust-hwi"
+    },
+    {
+      "title": "Greenwallet",
+      "url": "https://blockstream.com/green/"
+    }
+  ]
+}

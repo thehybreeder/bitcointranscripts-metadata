@@ -1,0 +1,115 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/66272115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-10%2F3aec2280-957d-3f13-b373-37ecf993c057.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Andrew-Chow-and-the-Bitcoin-Core-Wallet---Episode-30-e204vdj",
+  "title": "The Bitcoin Core Wallet",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "bitcoin-core",
+    "coin-selection",
+    "descriptors",
+    "hardware-wallet",
+    "hwi",
+    "psbt",
+    "wallet"
+  ],
+  "speakers": [
+    "Andrew Chow"
+  ],
+  "date": "2023-03-10",
+  "description": "<p><a href=\"https://twitter.com/achow101\" rel=\"nofollow\">Andrew Chow</a> joins us to discuss Bitcoin Core wallet development, PSBT, Output Descriptors, and HWI.</p>\n<p><br /></p>\n<p>We cover:</p>\n<p>- Why do we need a wallet in Bitcoin Core? (0:58)</p>\n<p>- Refactoring the Wallet codebase to build Output Descriptors (5:59)Should we rewrite the wallet? (10:30)</p>\n<p>- Changes to Coin Selection (11:35)</p>\n<p>- Wallet interoperability (17:10)</p>\n<p>- <a href=\"https://bitcoinops.org/en/topics/hwi/\" rel=\"nofollow\">Hardware Wallet Integration (HWI)</a> (18:20)</p>\n<p>- <a href=\"https://bitcoinops.org/en/topics/psbt/\" rel=\"nofollow\">Partially Signed Bitcoin Transactions (PSBT</a>) (19:01)</p>\n<p>- Becoming Maintainer (22:06)</p>\n<p>- Tracking the UTXO pool (23:43)</p>\n<p>- Main components of the Bitcoin Core Wallet (26:00)</p>\n<p>- Who uses Bitcoin Core Wallet? (27:02)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/achow101/2021-core-survey\">Survey Results</a></p>\n<p>- What’s the future of the GUI? (29:21)</p>\n<p>&nbsp;&nbsp;- <a href=\"https://github.com/bitcoin-Core/gui\">Bitcoin Core GUI<br />\n</a> &nbsp;- <a href=\"https://github.com/bitcoin-Core/gui-qml\">Bitcoin Core GUI-QML</a></p>\n<p>- Switch to <a href=\"https://bitcoinops.org/en/topics/output-script-descriptors/\" rel=\"nofollow\">Descriptor</a>-based wallets (32:52)</p>",
+  "chapters": [
+    [
+      "0",
+      58.0,
+      "Why do we need a wallet in Bitcoin Core?"
+    ],
+    [
+      "1",
+      630.0,
+      "Refactoring the Wallet codebase to build Output Descriptors (5:59)Should we rewrite the wallet?"
+    ],
+    [
+      "2",
+      695.0,
+      "Changes to Coin Selection"
+    ],
+    [
+      "3",
+      1030.0,
+      "Wallet interoperability"
+    ],
+    [
+      "4",
+      1100.0,
+      "Hardware Wallet Integration (HWI)"
+    ],
+    [
+      "5",
+      1141.0,
+      "Partially Signed Bitcoin Transactions (PSBT)"
+    ],
+    [
+      "6",
+      1326.0,
+      "Becoming Maintainer"
+    ],
+    [
+      "7",
+      1423.0,
+      "Tracking the UTXO pool"
+    ],
+    [
+      "8",
+      1560.0,
+      "Main components of the Bitcoin Core Wallet"
+    ],
+    [
+      "9",
+      1622.0,
+      "Who uses Bitcoin Core Wallet?"
+    ],
+    [
+      "10",
+      1761.0,
+      "What’s the future of the GUI?"
+    ],
+    [
+      "11",
+      1972.0,
+      "Switch to Descriptor-based wallets"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T114158Z.json",
+  "summary": "Andrew Chow joins us to discuss Bitcoin Core wallet development, PSBT, Output Descriptors, and HWI.",
+  "episode": 30,
+  "additional_resources": [
+    {
+      "title": "Hardware Wallet Integration (HWI)",
+      "url": "https://bitcoinops.org/en/topics/hwi/"
+    },
+    {
+      "title": "Partially Signed Bitcoin Transactions (PSBT",
+      "url": "https://bitcoinops.org/en/topics/psbt/"
+    },
+    {
+      "title": "Survey Results",
+      "url": "https://github.com/achow101/2021-core-survey"
+    },
+    {
+      "title": "Bitcoin Core GUI",
+      "url": "https://github.com/bitcoin-Core/gui"
+    },
+    {
+      "title": "Bitcoin Core GUI-QML",
+      "url": "https://github.com/bitcoin-Core/gui-qml"
+    },
+    {
+      "title": "Descriptor",
+      "url": "https://bitcoinops.org/en/topics/output-script-descriptors/"
+    }
+  ]
+}

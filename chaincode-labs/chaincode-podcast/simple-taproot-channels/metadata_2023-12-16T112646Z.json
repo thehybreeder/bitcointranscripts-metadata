@@ -1,0 +1,97 @@
+{
+  "type": "audio",
+  "loc": "chaincode-labs/chaincode-podcast",
+  "source_file": "https://anchor.fm/s/12fe0620/podcast/play/73519445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-17%2F34ee82c7-857a-16b7-73bb-c5352bce9876.mp3",
+  "media": "https://podcasters.spotify.com/pod/show/chaincode/episodes/Elle-Mouton--Oliver-Gugger-and-Simple-Taproot-Channels---Episode-33-e2724sl",
+  "title": "Simple Taproot Channels",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "anchor-outputs",
+    "cpfp-carve-out",
+    "ptlc",
+    "simple-taproot-channels",
+    "taproot"
+  ],
+  "speakers": [
+    "Elle Mouton",
+    "Oliver Gugger"
+  ],
+  "date": "2023-07-17",
+  "description": "<p><a href=\"https://twitter.com/ellemouton\" rel=\"nofollow\">Elle Mouton</a> and <a href=\"https://twitter.com/guggero\" rel=\"nofollow\">Oliver Gugger</a> join us to talk with us about the Simple Taproot Channel proposal.</p>\n<p>We cover:</p>\n<ul>\n <li>Simple Taproot Channels Overview (1:29)</li>\n <li>What’s the state of the spec? (3:06)</li>\n  <li>Changes to the scripts in Taproot Channels (4:31)</li>\n  <li>Refresher on <a href=\"https://bitcoinops.org/en/topics/cpfp-carve-out/\" rel=\"nofollow\">CPFP carve-out</a> and <a href=\"https://bitcoinops.org/en/topics/anchor-outputs/\" rel=\"nofollow\">Anchor Outputs</a> (8:19)</li>\n  <li>Why Anchor Outputs need to use script path spends (10:24)</li>\n  <li>Other goals of Simple Taproot Channels (15:52)</li>\n  <li>Why do <a href=\"https://bitcoinops.org/en/topics/ptlc/\" rel=\"nofollow\">PTLCs</a> need Taproot funding outputs? (16:44)</li>\n  <li>Potential updates for the gossip protocol: Gossip 1.5 or Gossip 2.0 (18:13)</li>\n  <li>PTLCs (25:22)</li>\n  <li>Iterative approach or big push (27:19)</li>\n  <li>Recoverability of channel funds (33:06)</li>\n</ul>",
+  "chapters": [
+    [
+      "0",
+      89.0,
+      "Simple Taproot Channels Overview"
+    ],
+    [
+      "1",
+      186.0,
+      "What’s the state of the spec?"
+    ],
+    [
+      "2",
+      271.0,
+      "Changes to the scripts in Taproot Channels"
+    ],
+    [
+      "3",
+      499.0,
+      "Refresher on CPFP carve-out and Anchor Outputs"
+    ],
+    [
+      "4",
+      624.0,
+      "Why Anchor Outputs need to use script path spends"
+    ],
+    [
+      "5",
+      952.0,
+      "Other goals of Simple Taproot Channels"
+    ],
+    [
+      "6",
+      1004.0,
+      "Why do PTLCs need Taproot funding outputs?"
+    ],
+    [
+      "7",
+      1093.0,
+      "Potential updates for the gossip protocol: Gossip 1.5 or Gossip 2.0"
+    ],
+    [
+      "8",
+      1522.0,
+      "PTLCs"
+    ],
+    [
+      "9",
+      1639.0,
+      "Iterative approach or big push"
+    ],
+    [
+      "10",
+      1986.0,
+      "Recoverability of channel funds"
+    ]
+  ],
+  "deepgram_output": "deepgram_2023-12-16T113039Z.json",
+  "summary": "Elle Mouton and Oliver Gugger join us to talk with us about the Simple Taproot Channel proposal.",
+  "episode": 33,
+  "additional_resources": [
+    {
+      "title": "CPFP carve-out",
+      "url": "https://bitcoinops.org/en/topics/cpfp-carve-out/"
+    },
+    {
+      "title": "Anchor Outputs",
+      "url": "https://bitcoinops.org/en/topics/anchor-outputs/"
+    },
+    {
+      "title": "PTLCs",
+      "url": "https://bitcoinops.org/en/topics/ptlc/"
+    }
+  ]
+}
