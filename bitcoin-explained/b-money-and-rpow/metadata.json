@@ -1,0 +1,26 @@
+{
+    "type": "audio",
+    "loc": "bitcoin-explained",
+    "source_file": "https://bitcoinexplainedpodcast.com/audio/@nado/episode-89-b-money-and-rpow-rm5k2.mp3",
+    "media": "https://bitcoinexplainedpodcast.com/@nado/episodes/episode-89-b-money-and-rpow-rm5k2",
+    "title": "B-money and RPOW",
+    "episode": 89,
+    "summary": "In this episode of Bitcoin, Explained, Aaron and Sjors discuss two more electronic cash projects that predate Bitcoin: Wei Dai's b-money and Hal Finney's RPOW. As detailed in Aaron's new book, The Genesis Book, these systems introduced design elements that were later utilized by Satoshi Nakamoto. Aaron and Sjors explain what these elements are, and how the inspired Bitcoin's design.",
+    "categories": [],
+    "tags": [],
+    "speakers": ["Sjors Provoost","Aaron van Wirdum"],
+    "description": "In this episode of Bitcoin, Explained, Aaron and Sjors discuss two more electronic cash projects that predate Bitcoin: Wei Dai\u2019s b-money and Hal Finney\u2019s RPOW. As detailed in Aaron\u2019s new book, The Genesis Book, these systems introduced design elements that were later utilized by Satoshi Nakamoto. Aaron and Sjors explain what these elements are, and how the inspired Bitcoin\u2019s design.\n\nTo buy Aaron\u2019s new book, visit www.thegenesisbook.com.\n\nMentioned:\n\nB-money (archive link): https://web.archive.org/web/20050211031649/http://www.eskimo.com/~weidai/bmoney.txt\n\nRPOW (archive link): https://nakamotoinstitute.org/finney/rpow/index.html\n\n===\n\nThis episode\u2019s sponsor:\u00a0\u2060CoinKite\u2060, maker of the ColdCard\nAaron's Twitter:\u00a0\u2060@AaronvanW\u2060\nAaron\u2019s Nostr: npub1art8cs66ffvnqns5zs5qa9fwlctmusj5lj38j94lv0ulw0j54wjqhpm0w5\nSjors\u2019 Twitter:\u00a0\u2060@provoost\u2060\nSjors\u2019 Nostr: npub1s6z7hmmx2vud66f3utxd70qem8cwtggx0jgc7gh8pqwz2k8cltuqrdwk4c\nIf you\u2019d like to sponsor the show, please email info at bitcoinexplainedpodcast.com\n\u2060https://bitcoinexplainedpodcast.com/",
+    "chapters": [],
+    "date": "2024-01-22",
+    "deepgram_output": "deepgram_2024-02-28T142630Z.json",
+    "additional_resources": [
+        {
+            "title": "https://web.archive.org/web/20050211031649/http://www.eskimo.com/~weidai/bmoney.txt",
+            "url": "https://web.archive.org/web/20050211031649/http://www.eskimo.com/~weidai/bmoney.txt"
+        },
+        {
+            "title": "https://nakamotoinstitute.org/finney/rpow/index.html",
+            "url": "https://nakamotoinstitute.org/finney/rpow/index.html"
+        }
+    ]
+}
