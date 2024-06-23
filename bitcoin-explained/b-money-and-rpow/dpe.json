@@ -544,7 +544,7 @@
             "id": 93,
             "start": 56.02,
             "end": 56.52,
-            "text": "ARPAO,"
+            "text": "Rpwow,"
         },
         {
             "id": 94,
@@ -36918,7 +36918,8 @@
         {
             "speaker": "Speaker 0",
             "start": 18.14,
-            "end": 26.32
+            "end": 26.32,
+            "chapter": "Introduction"
         },
         {
             "speaker": "Speaker 1",
