@@ -37101,7 +37101,8 @@
         {
             "speaker": "Speaker 0",
             "start": 27.5,
-            "end": 37.4
+            "end": 37.4,
+            "chapter": "Chapter Title"
         },
         {
             "speaker": "Speaker 1",
@@ -37126,7 +37127,8 @@
         {
             "speaker": "Speaker 1",
             "start": 50.42,
-            "end": 51.92
+            "end": 51.92,
+            "chapter": "Chapter Title"
         },
         {
             "speaker": "Speaker 0",
@@ -37676,7 +37678,8 @@
         {
             "speaker": "Speaker 1",
             "start": 2217.26,
-            "end": 2255.88
+            "end": 2255.88,
+            "chapter": "Chapter Title"
         }
     ]
 }
