@@ -1,0 +1,21 @@
+{
+  "type": "audio",
+  "loc": "bitcoin-explained",
+  "source_file": "https://bitcoinexplainedpodcast.com/audio/@nado/episode-86-ocean-tides-hktbg.mp3",
+  "media": "https://bitcoinexplainedpodcast.com/@nado/episodes/episode-86-ocean-tides-hktbg",
+  "title": "Ocean Tides",
+  "categories": [
+    "podcast"
+  ],
+  "tags": [
+    "mining"
+  ],
+  "speakers": [
+    "Sjors Provoost",
+    "Aaron van Wirdum"
+  ],
+  "date": "2023-12-06",
+  "description": null,
+  "chapters": [],
+  "deepgram_output": "deepgram_2023-12-06T175329Z.json"
+}
