@@ -1,0 +1,76 @@
+{
+  "type": "video",
+  "loc": "bitcoinplusplus/layer-2",
+  "source_file": "https://www.youtube.com/watch?v=M40yzuv6DNY",
+  "media": "https://www.youtube.com/watch?v=M40yzuv6DNY",
+  "title": "Building Trustless Bridges",
+  "categories": [
+    "conference"
+  ],
+  "tags": ["scalability","sidechains","statechains"],
+  "speakers": [
+    "John Light"
+  ],
+  "date": "2023-04-29",
+  "chapters": [
+    [
+      "0",
+      289,
+      "Why create a bitcoin bridge?"
+    ],
+    [
+      "1",
+      896,
+      "Centralized custodian"
+    ],
+    [
+      "2",
+      991,
+      "Federated multisig"
+    ],
+    [
+      "3",
+      1300,
+      "Hashrate escrow"
+    ],
+    [
+      "4",
+      1573,
+      "Collateralized custodian"
+    ],
+    [
+      "5",
+      1690,
+      "Statechain"
+    ],
+    [
+      "6",
+      1901,
+      "Lightning Network"
+    ],
+    [
+      "7",
+      2047,
+      "L2 optimistic rollup"
+    ],
+    [
+      "8",
+      2109,
+      "L2 validity rollup"
+    ],
+    [
+      "9",
+      2306,
+      "Ingredients for a trustless bridge"
+    ]
+  ],
+  "summary": "Many mechanisms have been created that enable users to lock BTC on the mainchain, transfer a claim on the BTC in some offchain system, and then later redeem the claim and take ownership of the underlying BTC. Colloquially known as \"bridges\", these mechanisms offer a diverse range of security and usability properties for users to choose from depending on their risk tolerance and cost preferences. This talk will give an overview of the different types of BTC bridges that exist, how they work, and how they can be improved.",
+  "youtube": {
+    "description": "John Light from Sovyrn presents: Many mechanisms have been created that enable users to lock BTC on the mainchain, transfer a claim on the BTC in some offchain system, and then later redeem the claim and take ownership of the underlying BTC. Colloquially known as \"bridges\", these mechanisms offer a diverse range of security and usability properties for users to choose from depending on their risk tolerance and cost preferences. This talk will give an overview of the different types of BTC bridges that exist, how they work, and how they can be improved.\n\nSpeaker Twitter: https ://twitter.com/lightcoin\n\nbtcpp website: https ://btcplusplus.dev/\nbtcpp twitter: https ://twitter.com/btcplusplus\n\nRecorded at the Palmer Events Center, 29 April 2023 in Austin, Texas.",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "deepgram_2023-11-16T082951.json"
+}

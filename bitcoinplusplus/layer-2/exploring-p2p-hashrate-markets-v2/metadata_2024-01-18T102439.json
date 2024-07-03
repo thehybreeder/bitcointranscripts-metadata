@@ -1,0 +1,26 @@
+{
+  "type": "video",
+  "loc": "bitcoinplusplus/layer-2",
+  "source_file": "https://www.youtube.com/watch?v=IvfmfcAX9wU",
+  "media": "https://www.youtube.com/watch?v=IvfmfcAX9wU",
+  "title": "Exploring P2P Hashrate Markets V2",
+  "categories": [
+    "conference"
+  ],
+  "tags": [
+    "mining"
+  ],
+  "speakers": [
+    "Nico Preti"
+  ],
+  "date": "2023-07-25",
+  "chapters": [],
+  "youtube": {
+    "description": "Nico Preti of Rigly presents: Using multisig to protect hashrate delivery so everyone can mine bitcoin again while figuring out how to pay out coinbase sats over lightning.\n\nSpeaker Twitter: https ://twitter.com/NicoP2010\nLearn more about Rigly: https://rigly.io\n\nbtcpp website: https ://btcplusplus.dev/\nbtcpp twitter: https ://twitter.com/btcplusplus\n\nRecorded at the Palmer Events Center, 29 April 2023 in Austin, Texas.",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "local_models/bitcoinplusplus/layer-2/metadata/nico-preti-exploring-p2p-hashrate-markets-v2_2023-11-16-21-27-28.json"
+}
