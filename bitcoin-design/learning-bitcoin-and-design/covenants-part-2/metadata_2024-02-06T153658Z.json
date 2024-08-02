@@ -1,0 +1,26 @@
+{
+  "type": "video",
+  "loc": "bitcoin-design/learning-bitcoin-and-design",
+  "source_file": "https://www.youtube.com/watch?v=zk_EEKeAFuY",
+  "media": "https://www.youtube.com/watch?v=zk_EEKeAFuY",
+  "title": "Covenants Part 2",
+  "categories": [],
+  "tags": [
+    "covenants",
+    "ux"
+  ],
+  "speakers": [
+    "Christoph Ono",
+    "Michael Haase"
+  ],
+  "date": "2024-02-02",
+  "chapters": [],
+  "youtube": {
+    "description": "Continuing our discussion from our first call, we dove into how covenants might play out in scenarios around chaining transactions, payment pools, and cold lightning channels. We made good progress, but also still have questions.\n\nIssue:\nhttps://github.com/BitcoinDesign/Meta/issues/623",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "deepgram_2024-02-06T154229Z.json"
+}

@@ -1,0 +1,51 @@
+{
+    "type": "video",
+    "loc": "adopting-bitcoin/2021",
+    "source_file": "https://www.youtube.com/watch?v=-uJSdfo4z7c",
+    "media": "https://www.youtube.com/watch?v=-uJSdfo4z7c",
+    "title": "Onboarding Bitcoin and Lightning Developers",
+    "categories": [
+        "conference"
+    ],
+    "tags": [
+        "bitcoin-core",
+        "lightning"
+    ],
+    "speakers": [
+        "Gloria Zhao",
+        "Will Clark",
+        "Adam Jonas",
+        "Jonas Nick"
+    ],
+    "date": "2021-11-16",
+    "chapters": [
+        [
+            "0",
+            16.0,
+            "Onboarding Bitcoin and Lightning Developers"
+        ],
+        [
+            "1",
+            696.0,
+            "PR Review Club"
+        ],
+        [
+            "2",
+            1879.0,
+            "Reviewing Pull Requests"
+        ],
+        [
+            "3",
+            2401.0,
+            "What To Expect Going into Open Source Development"
+        ]
+    ],
+    "youtube": {
+        "description": "Most Bitcoin companies seem to face difficulty finding the right talent. What barriers are stopping people from joining a bitcoin company? And what can companies do to solve this problem? What are some of the resources available to help both talents and companies find each other?\n\nPanelists:\nWill Clark - Lightning Application Engineer at Global Mesh Labs\nGloria Zhao - Brink Fellow, Bitcoin Core Contributor\nAdam Jonas - Qala\nJonas Nick - Bitcoin Research Blockstream\nHost: Pablo Fernandez\n\nGloria is a Bitcoin Core developer and fellow at Brink who focuses mainly on mempool validation and transaction relay. She is currently working on Package Mempool Accept.\n\nWill Clark is a Lightning Application Engineer at Global Mesh Labs developing an approach to paying Lightning invoices over the goTenna Mesh network and integrating the public goTenna Mesh SDK into a system using open-source Bitcoin Lightning.\n\nJonas Nick has been a Bitcoin developer with Blockstream since 2015. He is currently working in the research group focused on signatures and script languages like Miniscript and Simplicity for the Bitcoin protocol, wallets, the Elements sidechain and the Lightning Network. He is also a contributor to free and open source projects like Bitcoin Core, libsecp, rust-bitcoin and many others. Jonas is also a co-author of the Schnorr and Taproot specifications and works on both, theory and implementation, of various Bitcoin protocols like adaptor signatures, key aggregation, MuSig, MuSig2, FROST, Batch Verify and many more.\n\nPablo is the Lead Developer at Swan Bitcoin. He's been a software engineer and a FOSS advocate for the past 20+ years. Formerly a Linux kernel contributor, working in the HPC (high performance computing) industry, Pablo transitioned to focusing his work and energy in Bitcoin-related projects 4+ years ago.\n\nTogether with his colleague Caralie, Jonas co-manages Chaincode\u2019s educational initiatives, including the residency and online seminars. Last summer, he helped organize the Summer of Bitcoin for Indian students learning how to contribute to open-source Bitcoin/LN projects and is currently focusing his energy on Qala (qala.dev), a program designed to train experienced African developers and match them Bitcoin/LN jobs. He previously worked as an engineer in the education space after transitioning from his former role developing the talents of professional baseball players.\n\nProfiles:\nhttps://adoptingbitcoin.org/speaker/AdamJonas/\nhttps://adoptingbitcoin.org/speaker/WillClark/\nhttps://adoptingbitcoin.org/speaker/GloriaZhao/\nhttps://adoptingbitcoin.org/speaker/JonasNick/\nhttps://adoptingbitcoin.org/speaker/PabloFernandez/\n\nTwitters:\nhttps://twitter.com/pablof7z\nhttps://twitter.com/n1ckler\nhttps://twitter.com/glozow\nhttps://twitter.com/willcl_ark\nhttps://twitter.com/adamcjonas",
+        "tags": [],
+        "categories": [
+            "People & Blogs"
+        ]
+    },
+    "deepgram_output": "deepgram_2023-12-01T142801.json"
+}
