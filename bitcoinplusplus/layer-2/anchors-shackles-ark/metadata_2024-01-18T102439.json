@@ -1,0 +1,24 @@
+{
+    "type": "video",
+    "loc": "bitcoinplusplus/layer-2",
+    "source_file": "https://www.youtube.com/watch?v=OBt1nS14Ac4",
+    "media": "https://www.youtube.com/watch?v=OBt1nS14Ac4",
+    "title": "Anchors & Shackles (Ark)",
+    "categories": [
+        "conference"
+    ],
+    "tags": ["ark"],
+    "speakers": [
+        "Burak Keceli"
+    ],
+    "date": "2023-06-24",
+    "chapters": [],
+    "youtube": {
+        "description": "Burak of Ark presents: A new privacy-preserving second-layer scaling solution is on the horizon. Learn about the protocol specs such as txlocks, ATLCs, and swap factories.\n\nSpeaker Twitter: https ://twitter.com/brqgoo\nSpeaker website: https://buraks.blog\n\nbtcpp website: https ://btcplusplus.dev/\nbtcpp twitter: https ://twitter.com/btcplusplus\n\nRecorded at the Palmer Events Center, 29 April 2023 in Austin, Texas.",
+        "tags": [],
+        "categories": [
+            "Science & Technology"
+        ]
+    },
+    "deepgram_output": "deepgram_2023-11-16T164911.json"
+}

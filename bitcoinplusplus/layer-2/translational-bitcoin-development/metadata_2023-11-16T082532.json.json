@@ -1,0 +1,20 @@
+{
+    "type": "video",
+    "loc": "bitcoinplusplus/layer-2",
+    "source_file": "https://www.youtube.com/watch?v=BsWR94cbZ3Y",
+    "media": "https://www.youtube.com/watch?v=BsWR94cbZ3Y",
+    "title": "Translational Bitcoin Development",
+    "categories": [],
+    "tags": [],
+    "speakers": ["Tadge Dryja"],
+    "date": "2023-06-13",
+    "chapters": [],
+    "youtube": {
+        "description": "Tadge Dryja from Lightspark presents: There's lots of amazing new technologies, developments and discoveries in Bitcoin and higher layers, but most users are not fully verifying; many don't even have keys.  Why is this, and what should we think about when developing Bitcoin software and protocols to solve this problem?\n\nSpeaker twitter: https ://twitter.com/tdryja\n\nbtcpp website: https ://btcplusplus.dev/\nbtcpp twitter: https ://twitter.com/btcplusplus\n\nRecorded at the Palmer Events Center, 29 April 2023 in Austin, Texas.",
+        "tags": [],
+        "categories": [
+            "Science & Technology"
+        ]
+    },
+    "deepgram_output": "deepgram_2023-11-16T082732.json"
+}

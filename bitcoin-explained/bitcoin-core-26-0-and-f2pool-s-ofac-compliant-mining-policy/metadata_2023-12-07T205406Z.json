@@ -1,0 +1,17 @@
+{
+    "type": "audio",
+    "loc": "bitcoin-explained",
+    "source_file": "https://bitcoinexplainedpodcast.com/audio/@nado/episode-85-bitcoin-core-26-0-and-f2pool-s-ofac-compliant-mining-policy-ainlt.mp3",
+    "media": "https://bitcoinexplainedpodcast.com/@nado/episodes/episode-85-bitcoin-core-26-0-and-f2pool-s-ofac-compliant-mining-policy-ainlt",
+    "title": "Bitcoin Core 26.0 (And F2Pool's OFAC Compliant Mining Policy)",
+    "categories": ["podcast"],
+    "tags": ["bitcoin-core"],
+    "speakers": [
+        "Sjors Provoost",
+        "Aaron van Wirdum"
+    ],
+    "date": "2023-11-23",
+    "description": null,
+    "chapters": [],
+    "deepgram_output": "deepgram_2023-12-07T205720Z.json"
+}

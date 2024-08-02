@@ -1,0 +1,26 @@
+{
+  "type": "video",
+  "loc": "bitcoin-design/learning-bitcoin-and-design",
+  "source_file": "https://www.youtube.com/watch?v=rCQKqe2XCqI",
+  "media": "https://www.youtube.com/watch?v=rCQKqe2XCqI",
+  "title": "Covenants",
+  "categories": [],
+  "tags": [
+    "covenants",
+    "ux"
+  ],
+  "speakers": [
+    "Christoph Ono",
+    "Michael Haase"
+  ],
+  "date": "2024-01-19",
+  "chapters": [],
+  "youtube": {
+    "description": "We dig into what covenants are, how they work, and the different use cases.\n\nCheck the issue more relevant links and information:\nhttps://github.com/BitcoinDesign/Meta/issues/607",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "deepgram_2024-02-06T150018Z.json"
+}

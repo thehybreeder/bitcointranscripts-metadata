@@ -1,0 +1,27 @@
+{
+  "type": "video",
+  "loc": "bitcoinplusplus/layer-2",
+  "source_file": "https://www.youtube.com/watch?v=S7ZH4hr2FlA",
+  "media": "https://www.youtube.com/watch?v=S7ZH4hr2FlA",
+  "title": "Unjamming Lightning",
+  "categories": [
+    "conference"
+  ],
+  "tags": [
+    "research",
+    "channel-jamming-attacks"
+  ],
+  "speakers": [
+    "Clara Shikhelman"
+  ],
+  "date": "2023-07-01",
+  "chapters": [],
+  "youtube": {
+    "description": "Clara Shikhelman from Chaincode Labs presents: While it may not be easy to steal funds on the Lightning Network, it is relatively simple and cheap to jam channels. This can result in users not being able to send or receive payment, lost revenue for routing nodes, or even degradation of the whole network’s ability to make payments.\nIn this presentation, we will delve into the consequences of such attacks, explore potential mitigation strategies, and discuss various implications for the Lightning Network.\n\nSpeaker Twitter: https ://twitter.com/ClaraShik\n\nbtcpp website: https ://btcplusplus.dev/\nbtcpp twitter: https ://twitter.com/btcplusplus\n\nRecorded at the Palmer Events Center, 29 April 2023 in Austin, Texas.",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "deepgram_2023-11-16T163618.json"
+}
