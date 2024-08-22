@@ -1,0 +1,21 @@
+{
+    "type": "video",
+    "loc": "misc",
+    "source_file": "https://www.youtube.com/watch?v=1u7gA1gu-Gs",
+    "media": "https://www.youtube.com/watch?v=1u7gA1gu-Gs",
+    "title": "How the FBI Caught Dan Bilzerian",
+    "categories": [],
+    "tags": [],
+    "speakers": [],
+    "description": "Dan Bilzerian tried to scam the world and failed...",
+    "chapters": [],
+    "date": "2024-05-16",
+    "youtube": {
+        "description": "Dan Bilzerian tried to scam the world and failed...",
+        "tags": [],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "whisper_output": "whisper_2024-08-22T121103Z.json"
+}
