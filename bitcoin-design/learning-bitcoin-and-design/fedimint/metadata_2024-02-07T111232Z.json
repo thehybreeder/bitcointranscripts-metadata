@@ -1,0 +1,124 @@
+{
+  "type": "video",
+  "loc": "bitcoin-design/learning-bitcoin-and-design",
+  "source_file": "https://www.youtube.com/watch?v=lQ0dETyS28o",
+  "media": "https://www.youtube.com/watch?v=lQ0dETyS28o",
+  "title": "FediMint",
+  "categories": [],
+  "tags": [
+    "ecash",
+    "ux"
+  ],
+  "speakers": [
+    "Stephen DeLorme",
+    "Justin Moon"
+  ],
+  "date": "2022-07-29",
+  "chapters": [
+    [
+      "0",
+      0.0,
+      "Introduction"
+    ],
+    [
+      "1",
+      65.0,
+      "Justin introduces FediMint"
+    ],
+    [
+      "2",
+      110.0,
+      "Scalability"
+    ],
+    [
+      "3",
+      235.0,
+      "Privacy"
+    ],
+    [
+      "4",
+      310.0,
+      "Custody with a federated mint"
+    ],
+    [
+      "5",
+      560.0,
+      "Community banking use case"
+    ],
+    [
+      "6",
+      650.0,
+      "Where is the FediMint project right now?"
+    ],
+    [
+      "7",
+      795.0,
+      "Self-custody vs. Community-custody"
+    ],
+    [
+      "8",
+      1050.0,
+      "Are mints interoperable? How chaumian mints work"
+    ],
+    [
+      "9",
+      1285.0,
+      "Connecting mints over lightning"
+    ],
+    [
+      "10",
+      1820.0,
+      "Backups for FediMint users"
+    ],
+    [
+      "11",
+      2325.0,
+      "Backing up other user wallet metadata"
+    ],
+    [
+      "12",
+      2590.0,
+      "Checking the status of the mint or proof-of-funds"
+    ],
+    [
+      "13",
+      2830.0,
+      "Hypothetical: remove some privacy features and add more proof-of-liabilities"
+    ],
+    [
+      "14",
+      2960.0,
+      "What should the initial setup of a FediMint server look like?"
+    ],
+    [
+      "15",
+      3140.0,
+      "There can be many FediMints and each can try different design patterns"
+    ],
+    [
+      "16",
+      3400.0,
+      "Different types of users for FediMints"
+    ],
+    [
+      "17",
+      3540.0,
+      "Closing"
+    ]
+  ],
+  "youtube": {
+    "description": "This call is intended to help you learn new concepts about Bitcoin, Lightning, and design. The general format will be to focus on a specific topic or read-through a document together and discuss (like a chapter of the Design Guide, or something that will help us learn about Bitcoin and Lightning).\n\nOn this call, we'll focus on FediMint, which is an idea aimed at improving the scalability and privacy of bitcoin that has a different set of trade-offs than many of the other ideas being discussed.\n\nCall Notes: https://github.com/BitcoinDesign/Meta/issues/309\n\n00:00 - Introduction\n01:05 - Justin introduces FediMint\n01:50 - Scalability\n03:55 - Privacy\n05:10 - Custody with a federated mint\n09:20 - Community banking use case\n10:50 - Where is the FediMint project right now?\n13:15 - Self-custody vs. Community-custody\n17:30 - Are mints interoperable? How chaumian mints work\n21:25 - Connecting mints over lightning\n30:20 - Backups for FediMint users\n38:45 - Backing up other user wallet metadata\n43:10 - Checking the status of the mint or proof-of-funds\n47:10 - Hypothetical: remove some privacy features and add more proof-of-liabilities\n49:20 - What should the initial setup of a FediMint server look like?\n52:20 - There can be many FediMints and each can try different design patterns\n56:40 - Different types of users for FediMints\n59:00 - Closing",
+    "tags": [
+      "bitcoin",
+      "lightning network",
+      "fedimint",
+      "design",
+      "ux",
+      "ui"
+    ],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "deepgram_2024-02-07T115223Z.json"
+}

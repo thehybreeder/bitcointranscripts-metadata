@@ -1,0 +1,19 @@
+{
+    "type": "audio",
+    "loc": "bitcoin-explained",
+    "source_file": "https://bitcoinexplainedpodcast.com/audio/@nado/episode-88-hashcash-and-bit-gold-a5cjn.mp3",
+    "media": "https://bitcoinexplainedpodcast.com/@nado/episodes/episode-88-hashcash-and-bit-gold-a5cjn",
+    "title": "Hashcash and Bit Gold",
+    "categories": [
+        "podcast"
+    ],
+    "tags": [],
+    "speakers": [
+        "Sjors Provoost",
+        "Aaron van Wirdum"
+    ],
+    "date": "2024-01-03",
+    "description": null,
+    "chapters": [],
+    "deepgram_output": "deepgram_2024-01-15T163006Z.json"
+}

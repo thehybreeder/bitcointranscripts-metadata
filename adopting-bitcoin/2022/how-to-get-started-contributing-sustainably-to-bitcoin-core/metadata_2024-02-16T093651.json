@@ -1,0 +1,32 @@
+{
+    "type": "video",
+    "loc": "adopting-bitcoin/2022",
+    "source_file": "https://www.youtube.com/watch?v=Bduon80-4CE",
+    "media": "https://www.youtube.com/watch?v=Bduon80-4CE",
+    "title": "How to get started contributing sustainably to Bitcoin Core",
+    "categories": ["conference"],
+    "tags": [
+        "bitcoin-core"
+    ],
+    "speakers": [
+        "Jon Atack",
+        "Stephan Livera"
+    ],
+    "date": "2022-11-16",
+    "chapters": [],
+    "youtube": {
+        "description": "How to get started contributing sustainably to Bitcoin Core\nFireside Chat with Jon Atack and Stephan Livera\n\nSlides & Infos:\nhttps://pretalx.com/adopting-bitcoin-2022/talk/EXARUY/\n\nTickets for Adopting Bitcoin 2023: https://pretix.eu/galoy/ab23/\n\nFollow us on Twitter: https://twitter.com/AdoptingBTC \nJoin our Telegram: https://t.me/AdoptingBTC\nVisit our website: https://adoptingbitcoin.org",
+        "tags": [
+            "Bitcoin",
+            "Lightning Network",
+            "Galoy",
+            "Adopting Bitcoin",
+            "Bitcoin Banking",
+            "El Salvador"
+        ],
+        "categories": [
+            "Science & Technology"
+        ]
+    },
+    "deepgram_output": "deepgram_2023-12-01T155533.json"
+}

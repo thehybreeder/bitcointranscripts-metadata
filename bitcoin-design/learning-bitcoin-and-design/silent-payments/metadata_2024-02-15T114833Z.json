@@ -1,0 +1,25 @@
+{
+  "type": "video",
+  "loc": "bitcoin-design/learning-bitcoin-and-design",
+  "source_file": "https://www.youtube.com/watch?v=Cqmk2cZ2IjM",
+  "media": "https://www.youtube.com/watch?v=Cqmk2cZ2IjM",
+  "title": "Silent Payments",
+  "categories": [],
+  "tags": [
+    "silent-payments"
+  ],
+  "speakers": [
+    "Christoph Ono",
+    "Josibake"
+  ],
+  "date": "2024-02-08",
+  "chapters": [],
+  "youtube": {
+    "description": "Josi gave us a great introduction to silent payments in this conversation. We talked about the history of similar efforts, benefits and drawbacks, how it works, status of the project, adoption path, and lots more.\n\nIssue:\nhttps://github.com/BitcoinDesign/Meta/issues/622",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "deepgram_2024-02-15T115543Z.json"
+}

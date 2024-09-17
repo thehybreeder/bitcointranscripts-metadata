@@ -1,0 +1,27 @@
+{
+  "type": "video",
+  "loc": "bitcoinplusplus/layer-2",
+  "source_file": "https://www.youtube.com/watch?v=E_z4hjvVzoQ",
+  "media": "https://www.youtube.com/watch?v=E_z4hjvVzoQ",
+  "title": "Lightning on Taproot",
+  "categories": [
+    "conference"
+  ],
+  "tags": [
+    "lightning",
+    "taproot"
+  ],
+  "speakers": [
+    "Arik Sosman"
+  ],
+  "date": "2023-07-18",
+  "chapters": [],
+  "youtube": {
+    "description": "Arik of Spiral presents: Constraints and rationale for changes to the Lightning protocol necessary for Taproot-based channels.\n\nSpeaker Twitter: https ://twitter.com/arikaleph\nLearn more about Spiral: https://spiral.xyz/\n\nbtcpp website: https ://btcplusplus.dev/\nbtcpp twitter: https ://twitter.com/btcplusplus\n\nRecorded at the Palmer Events Center, 29 April 2023 in Austin, Texas.",
+    "tags": [],
+    "categories": [
+      "Science & Technology"
+    ]
+  },
+  "deepgram_output": "deepgram_2023-11-16T213225.json"
+}
